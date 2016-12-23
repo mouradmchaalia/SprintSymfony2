@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+ <photos>
+
+<photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>قبل الإنطلاق يجب التثبت من</question> 
+  <fichier>photoQuestion/mecanique/1.jpg</fichier>
+  <son>sonQuestion/mecanique/1.mp3</son> 
+  <rep1>قبل الإنطلاق يجب التثبت من</rep1>
+  <rep2>مستوى زيت المحرك </rep2>
+  <rep3>حالة مضخة الوقود</rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+<reponse>إذا تمّ تعدّي عدد الكيلومترات المبرمجة بالنسبة للزيت يقع إتلاف هذا الأخير ويمكن أن يتسبّب في أضرار هامّة للمحرّك
+الدليل التطبيقي للإقتصاد في الوقود : الوكالة الوطنيّة للطّاقات المتجدّدة. 
+</reponse>
+</photo>
+ 
+
+
+<photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>في الصيف ينصح بالتثبت من مستوى ماء البطارية</question> 
+  <fichier>photoQuestion/mecanique/2.jpg</fichier>
+  <son>sonQuestion/mecanique/2.mp3</son> 
+  <rep1>كل يوم</rep1>
+  <rep2>كل شهر </rep2>
+  <rep3>كل أسبوع</rep3>
+  <bonrep>C</bonrep>
+<type>mecanique</type>
+<reponse> البطارية تحتوي على سائل هوّ مزيج من الماء وحامض وهذا الخليط معرّض للتّبخّر بسب حرارة المحرّك والحرارة الإضافيّة لفصل الصيف لذا وجب التّثبّت من مستوى هذا السّائل بصفة دورية وخاصّة عند إشتداد الحرارة. وينصح الخبراء بأن تكون دورية المراقبة في فصل الصيف مرّة في الأسبوع. </reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>قراءة الكيلومترات المسجلة بالعدّاد تمكن من</question> 
+  <fichier>photoQuestion/mecanique/3.jpg</fichier>
+  <son>sonQuestion/mecanique/3.mp3</son> 
+  <rep1>تحديد مواعيد إضافة ماء البطارية</rep1>
+  <rep2>احترام أوقات تغيير زيت المحرّك </rep2>
+  <rep3>تحديد مواعيد القيام بالفحص الفنّي</rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+<reponse> إذا تمّ تعدّي عدد الكيلومترات المبرمجة بالنسبة للزيت يقع إتلاف هذا الأخير ويمكن أن يتسبّب في أضرار هامّة للمحرّك. 
+الدليل التطبيقي للإقتصاد في الوقود : الوكالة الوطنيّة للطّاقات المتجدّدة
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>عند القيام بسفرة طويلة يجب</question> 
+  <fichier>photoQuestion/mecanique/4.jpg</fichier>
+  <son>sonQuestion/mecanique/4.mp3</son> 
+  <rep1>الزيادة في ضغط العجلات</rep1>
+  <rep2>التخفيض في ضغط العجلات </rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>mecanique</type>
+<reponse> للسّلامة ولإقتصاد الطّاقة فإنّ قيم نفخ الأطواق المطاطيّة للعربات يجب أن تكون مطابقة لدليل الإستعمال المسلّم من طرف الصّانع، وتتمّ مراقبة قيم ضغط الأطواق وهي باردة حتّى تعطي قيما حقيقيّة، إذ أنّ القيس إذا تمّ والأطؤاق ساخنة فإنّ القيم تتغيّر تحت تأثير الحرارة
+ الدليل التطبيقي للإقتصاد في الوقود. الوكالة الوطنيّة للطّاقات المتجدّدة. 
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>عند تركيب أطواق ذات هيكل قطري محزم من الأمام يمكن تركيب من الخلف</question> 
+  <fichier>photoQuestion/mecanique/5.jpg</fichier>
+  <son>sonQuestion/mecanique/5.mp3</son> 
+  <rep1>أطواق ذات هيكل قطري</rep1>
+  <rep2>اأطواق ذات هيكل شعاعي </rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+<reponse> يحجّرتركيب أطواق مطاطيّة ذات هيكل قطري أو قطري محزّم على المغزل الخلفي إذا تمّ تركيب أطواق مطاطيّة ذات هيكل شعاعي على المغزل الأمامي.</reponse>
+</photo>
+
+
+
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>6</num> 
+<question>عند نزول المطر يزداد خطر انزلاق عربة بسبب</question> 
+  <fichier>photoQuestion/mecanique/6.jpg</fichier>
+  <son>sonQuestion/mecanique/6.mp3</son> 
+  <rep1>طول مسافة التوقف</rep1>
+  <rep2>تضاعف مسافة الفرملة </rep2>
+  <rep3>تآكل العجلات المستعملة</rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+<reponse>« عندما تصل مياه الأمطار على الطّرقات إلى مستوى 3 و 5 صنتيمترات يتكوّن حاجز مائي أمام العجلات، تقوم النقوش الموجودة على مساحة الدّوران بامتصاصه، وذلك بمعدّل 20 لترفي الدّقيقة الواحدة بسرعة 90 كلم/س.  بازدياد السرعة يقوى ضغط الحاجز المائي ويتسرّب شيئا فشيئا تحت الأطواق إلى أن تفقد العجلات الإلتحام مع المعبّد وبالتّالي يفقد السّائق السيطرة على القيادة ويمكن أن يتسبّب ذلك في إنزلاق العربة.»
+نستنتج من ذلك أنّ العجلات المتآكلة لا يمكنها القيام بامتصاص المياه أمام العجلات.
+    الطوق المطاطي:  منشورات الجمعيّة الفرنسيّة للوقاية المروريّة  ليناس مونليري فرنسا
+
+</reponse> 
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>7</num> 
+<question>تشتعل هذه الإشارة عندما </question> 
+  <fichier>photoQuestion/mecanique/7.jpg</fichier>
+  <son>sonQuestion/mecanique/7.mp3</son> 
+  <rep1>تكون درجة حرارة المحرك مرتفعة جدا</rep1>
+  <rep2>تكون فرامل اليد مضغوط عليها </rep2>
+  <rep3>يكون مستوى ماء البطارية منخفض</rep3>
+  <bonrep>A</bonrep>
+<type>mecanique</type>
+<reponse> يتمثّل دور الإشارات الضوئية في تحذير السائق لحدث طارئ. ويتغيّر مدلول هذه الإشارات حسب ألوانها 
+    ينبّه اللون الأحمر إلى حصول خلل معيّن .
+هذه الإشارة تنبّه إلى إرتفاع حرارة المحرّك
+</reponse> 
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>8</num> 
+<question>عند إضافة سائل مساح البلّور نستعمل </question> 
+  <fichier>photoQuestion/mecanique/8.jpg</fichier>
+  <son>sonQuestion/mecanique/8.mp3</son> 
+  <rep1>ماء الحنفية</rep1>
+  <rep2>سائل خاص</rep2>
+  <rep3>يسائل حامض</rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+<reponse> ينصّ المشرّع على أنّه:  يجب أن يكون زجاج البلّور الواقي الأمامي شفّافا بصورة كافية ولا يغيّر بصورة جليّة شكل الأشياء المرئيّة من خلاله وألوانها وأن يسمح للسّائق في صورة التّكسّر بالإستمرار في الرؤية
+الفصل 32 من الأمر عدد 147 المؤرّخ في 24 جانفي 2000 يضبط القواعد الفنّية لتجهيز وتهيئة العربات.
+</reponse> 
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>9</num> 
+<question>السير بإطارات ذات كمية هواء ناقصة يتسبب في </question> 
+  <fichier>photoQuestion/mecanique/9.jpg</fichier>
+  <son>sonQuestion/mecanique/9.mp3</son> 
+  <rep1>تحسن مردود جهاز الفرملة</rep1>
+  <rep2>تقلّص استهلاك الوقود</rep2>
+  <rep3>انفلاق العجلات</rep3>
+  <bonrep>C</bonrep>
+<type>mecanique</type>
+<reponse>ترتفع درجة حرارة الطّوق إذا كانت كمّية الهواء داخل الإطار ناقصة، ويعرّضه ذلك للإتلاف السّريع كما يزيد من إستهلاك الطّاقة  ويعرّض الطوق إلى خطر الإنفلاق
+ الدليل التطبيقي لعجلة السّيارات الخفيفة :  دنلوب 
+</reponse> 
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>10</num> 
+<question>إذا انخفض مستوى زيت الفرامل يجب </question> 
+  <fichier>photoQuestion/mecanique/10.jpg</fichier>
+  <son>sonQuestion/mecanique/10.mp3</son> 
+  <rep1>القيام بإصلاح جهاز الفرملة</rep1>
+  <rep2>زيادة الكمية الناقصة فورا</rep2>
+  <rep3>استعمال جهاز الفرملة اليدوية للوقوف</rep3>
+  <bonrep>A</bonrep>
+<type>mecanique</type>
+<reponse> إنخفاض مستوى زيت الفرامل يدلّ على وجود خلل في جهاز الفرملة، وزيادة الكمّية النّاقصة من الزيت لا تعوّض إصلاح الخلل وبالتّالي فإنّ أيّ نقص في مستوى زيت الفرملة يتطلّب التّدخّل العاجل للميكانيكي المختصّ</reponse> 
+</photo>
+
+</photos>

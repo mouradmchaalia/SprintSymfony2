@@ -1,0 +1,47 @@
+
+</br></br>
+            <h2 align="center">Liste des Candidats</h2>
+            
+            </br>
+            </br>
+            </br>
+            
+
+            <table border="2" width="100%">
+                <tr>
+                    <td> Prenom  </td>
+                    <td> Nom </td>
+                    <td> num cin </td>
+                    <td> num tel </td>
+                </tr>
+               
+                {% for candidat in candidats %}
+                    <tr>
+                        <td>{{ candidat.prenom }}</td>
+                        <td>{{ candidat.nom }}</td>
+                        <td>{{ candidat.numCin }}</td>
+                        <td>{{ candidat.numTel }}</td>
+                        
+                    </tr>
+                {%endfor%}
+            </table>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+h2 {
+    color: firebrick;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+td {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+</style>
+</head>
+</html>

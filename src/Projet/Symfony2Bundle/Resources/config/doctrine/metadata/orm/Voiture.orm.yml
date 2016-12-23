@@ -1,0 +1,43 @@
+Voiture:
+    type: entity
+    table: voiture
+    indexes:
+        id_responsable_auto_ecole:
+            columns:
+                - id_responsable_auto_ecole
+    id:
+        idVoiture:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_voiture
+            generator:
+                strategy: IDENTITY
+    fields:
+        marque:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        immatriculation:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        etat:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        idResponsableAutoEcole:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_responsable_auto_ecole
+    lifecycleCallbacks: {  }

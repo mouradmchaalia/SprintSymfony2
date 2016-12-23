@@ -1,0 +1,80 @@
+Candidat:
+    type: entity
+    table: candidat
+    indexes:
+        id_auto_ecole:
+            columns:
+                - id_auto_ecole
+    uniqueConstraints:
+        email:
+            columns:
+                - email
+    id:
+        idCandidat:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_candidat
+            generator:
+                strategy: IDENTITY
+    fields:
+        prenom:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        nom:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        numCin:
+            type: string
+            nullable: false
+            length: 8
+            fixed: false
+            comment: ''
+            column: num_cin
+        email:
+            type: string
+            nullable: false
+            length: 200
+            fixed: false
+            comment: ''
+        numTel:
+            type: string
+            nullable: false
+            length: 8
+            fixed: false
+            comment: ''
+            column: num_tel
+        adresse:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        dateDeNaissance:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+            column: date_de_naissance
+        password:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        idAutoEcole:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_auto_ecole
+    lifecycleCallbacks: {  }

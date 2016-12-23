@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <photos>
+  <photo num="1" fichier="../photoQuestion/arret/7.jpg" son="../sonQuestion/arret/7.mp3" reponse="../photoRep/arret/7.jpg"/>
+  
+  <photo num="2" fichier="../photoQuestion/infraction/12.jpg" son="../sonQuestion/infraction/12.mp3" reponse="../photoRep/infraction/12.jpg"/>
+  
+  <photo num="3" fichier="../photoQuestion/priorite/13.jpg" son="../sonQuestion/priorite/13.mp3" reponse="../photoRep/priorite/13.jpg"/>
+  
+  <photo num="4" fichier="../photoQuestion/signalisation/13.jpg" son="../sonQuestion/signalisation/13.mp3" reponse="../photoRep/signalisation/13.jpg"/>
+  
+  <photo num="5" fichier="../photoQuestion/reglementation/22.jpg" son="../sonQuestion/reglementation/22.mp3" reponse="../photoRep/reglementation/22.jpg"/>
+  
+  <photo num="6" fichier="../photoQuestion/vitesse/7.jpg" son="../sonQuestion/vitesse/7.mp3" reponse="../photoRep/vitesse/7.jpg"/>
+  
+  <photo num="7" fichier="../photoQuestion/priorite/14.jpg" son="../sonQuestion/priorite/14.mp3" reponse="../photoRep/priorite/14.jpg"/>
+  
+  <photo num="8" fichier="../photoQuestion/secourisme/7.jpg" son="../sonQuestion/secourisme/7.mp3" reponse="../photoRep/secourisme/7.jpg"/>
+  
+  <photo num="9" fichier="../photoQuestion/reglementation/23.jpg" son="../sonQuestion/reglementation/23.mp3" reponse="../photoRep/reglementation/23.jpg"/>
+  
+  <photo num="10" fichier="../photoQuestion/infraction/10.jpg" son="../sonQuestion/infraction/10.mp3" reponse="../photoRep/infraction/10.jpg"/>
+  
+  <photo num="11" fichier="../photoQuestion/signalisation/14.jpg" son="../sonQuestion/signalisation/14.mp3" reponse="../photoRep/signalisation/14.jpg"/>
+  
+  <photo num="12" fichier="../photoQuestion/reglementation/24.jpg" son="../sonQuestion/reglementation/24.mp3" reponse="../photoRep/reglementation/24.jpg"/>
+  
+  <photo num="13" fichier="../photoQuestion/croisement/10.jpg" son="../sonQuestion/croisement/10.mp3" reponse="../photoRep/croisement/10.jpg"/>
+  
+  <photo num="14" fichier="../photoQuestion/priorite/15.jpg" son="../sonQuestion/priorite/15.mp3" reponse="../photoRep/priorite/15.jpg"/>
+  
+  <photo num="15" fichier="../photoQuestion/infraction/11.jpg" son="../sonQuestion/infraction/11.mp3" reponse="../photoRep/infraction/11.jpg"/>
+  
+  <photo num="16" fichier="../photoQuestion/reglementation/25.jpg" son="../sonQuestion/reglementation/25.mp3" reponse="../photoRep/reglementation/25.jpg"/>
+  
+  <photo num="17" fichier="../photoQuestion/tmd/4.jpg" son="../sonQuestion/tmd/4.mp3" reponse="../photoRep/tmd/4.jpg"/>
+  
+  <photo num="18" fichier="../photoQuestion/croisement/11.jpg" son="../sonQuestion/croisement/11.mp3" reponse="../photoRep/croisement/11.jpg"/>
+  
+  <photo num="19" fichier="../photoQuestion/secourisme/8.jpg" son="../sonQuestion/secourisme/8.mp3" reponse="../photoRep/secourisme/8.jpg"/>
+  
+  <photo num="20" fichier="../photoQuestion/reglementation/26.jpg" son="../sonQuestion/reglementation/26.mp3" reponse="../photoRep/reglementation/26.jpg"/>
+  
+  <photo num="21" fichier="../photoQuestion/mecanique/8.jpg" son="../sonQuestion/mecanique/8.mp3" reponse="../photoRep/mecanique/8.jpg"/>
+  
+  <photo num="22" fichier="../photoQuestion/arret/8.jpg" son="../sonQuestion/arret/8.mp3" reponse="../photoRep/arret/8.jpg"/>
+  
+  <photo num="23" fichier="../photoQuestion/reglementation/27.jpg" son="../sonQuestion/reglementation/27.mp3" reponse="../photoRep/reglementation/27.jpg"/>
+  
+  <photo num="24" fichier="../photoQuestion/signalisation/15.jpg" son="../sonQuestion/signalisation/15.mp3" reponse="../photoRep/signalisation/15.jpg"/>
+  
+  <photo num="25" fichier="../photoQuestion/priorite/16.jpg" son="../sonQuestion/priorite/16.mp3" reponse="../photoRep/priorite/16.jpg"/>
+  
+  <photo num="26" fichier="../photoQuestion/croisement/12.jpg" son="../sonQuestion/croisement/12.mp3" reponse="../photoRep/croisement/12.jpg"/>
+  
+  <photo num="27" fichier="../photoQuestion/vitesse/8.jpg" son="../sonQuestion/vitesse/8.mp3" reponse="../photoRep/vitesse/8.jpg"/>
+  
+  <photo num="28" fichier="../photoQuestion/reglementation/28.jpg" son="../sonQuestion/reglementation/28.mp3" reponse="../photoRep/reglementation/28.jpg"/>
+  
+  <photo num="29" fichier="../photoQuestion/signalisation/16.jpg" son="../sonQuestion/signalisation/16.mp3" reponse="../photoRep/signalisation/16.jpg"/>
+  
+  <photo num="30" fichier="../photoQuestion/mecanique/7.jpg" son="../sonQuestion/mecanique/7.mp3" reponse="../photoRep/mecanique/7.jpg"/>
+</photos>

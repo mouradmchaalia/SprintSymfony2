@@ -1,0 +1,39 @@
+AutoEcole:
+    type: entity
+    table: auto_ecole
+    id:
+        idAutoEcole:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_auto_ecole
+            generator:
+                strategy: IDENTITY
+    fields:
+        adresse:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        libelle:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        numPatente:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: num_patente
+        idResponsableAutoEcole:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_responsable_auto_ecole
+    lifecycleCallbacks: {  }

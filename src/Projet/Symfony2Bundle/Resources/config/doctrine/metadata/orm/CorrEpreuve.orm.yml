@@ -1,0 +1,86 @@
+CorrEpreuve:
+    type: entity
+    table: corr_epreuve
+    indexes:
+        id_candidat:
+            columns:
+                - id_candidat
+    id:
+        idCorrEpreuve:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_corr_epreuve
+            generator:
+                strategy: IDENTITY
+    fields:
+        score:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        idCandidat:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_candidat
+        idEpreuve:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_epreuve
+        arret:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        croisement:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        infraction:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        mecanique:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        priorite:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        reglementation:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        secourisme:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        signalisation:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        tmd:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        vitesse:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+    lifecycleCallbacks: {  }

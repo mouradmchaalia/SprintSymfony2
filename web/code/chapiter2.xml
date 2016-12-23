@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>وقوف هذه العربى في  صف الثاني يعتبر </question> 
+  <fichier>photoQuestion/arret/1.jpg</fichier>
+  <son>sonQuestion/arret/1.mp3</son> 
+  <rep1>وقوفاً مضايقاً</rep1>
+  <rep2>وقوفاً خطير</rep2>
+  <rep3>وقوفاً مسموح به لبعض لحظات</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse> يعتبر وقوفا مضايقا وقوف العربات  في الصف الثاني على المعبد»  الفصل 22 أمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلق بالقواعد العامة للجولان.
+  </reponse>
+</photo>
+  <photo>
+  <duree>31</duree>
+  <num>2</num>
+<question>الوقوف في هذا المكان</question>
+  <fichier>photoQuestion/arret/2.jpg</fichier>
+  <son>sonQuestion/arret/2.mp3</son> 
+  <rep1>مسموح به</rep1>
+  <rep2> مضايق</rep2>
+  <rep3>خطير</rep3>
+  <bonrep>C</bonrep>
+<reponse>« يحجر التوقف والوقوف الخطير
+2- على الممرات العليا والجسور وتحتها وبالأنفاق ما عدى الأماكن المهيأة لذلك» 
+الفصل 20 من الأمر عدد 151 المؤرخ  في 24 جانفي 2000 المتعلق بالقواعد العامة للجولان.
+ </reponse> 
+<type>arret</type>
+  </photo>
+  <photo>
+  <duree>44</duree>
+  <num>3</num> 
+<question>في هذا المكان يمنع</question>
+  <fichier>photoQuestion/arret/3.jpg</fichier>
+  <son>sonQuestion/arret/3.mp3</son> 
+  <rep1>الوقوف و التوقف قبل العلامة</rep1>
+  <rep2>الوقوف و التوقف قبل و بعد العلامة</rep2>
+  <rep3>الوقوف و التوقف بعد العلامة </rep3>
+  <bonrep>C</bonrep>
+<reponse>« تبين علامة المنع الحد اللذي يجب ابتداء منه احترام المنع
+ممنوع الوقوف والتّوقّف »
+ الفصل 23 و24 و 29 من الأمر عدد 150 المتعلق بإشارات وعلامات الطريق ملحق "هـ".
+ </reponse>
+<type>arret</type>
+  </photo>
+<photo>
+  <duree>48</duree>
+  <num>4</num>
+<question>في هذا النهج ذو اتجاهين يمكنني الوقوف أو التوقف </question> 
+  <fichier>photoQuestion/arret/4.jpg </fichier>
+  <son>sonQuestion/arret/4.mp3</son> 
+  <rep1>على الجهة اليمنى فقط </rep1>
+  <rep2>على الجهة اليمنى أو اليسر ى </rep2>
+  <rep3>على الجهة اليمنى فلي الليل فقط</rep3>
+  <bonrep>A</bonrep>
+<reponse>يجب أن يتم الوقوف و التوقف أي عربى داخل مواطن العمران في نفس حركة الاتجاه حركة الجولان و حاسب القواعد التالية 
+على الجهة اليمنى مينا الطريق ذو اتجاهين 
+الفصل 18من الأمر عدد 151 المؤرخ في 24 جانفي 2000 وال متعلق بال قواعد العامة للجولان  
+</reponse>
+<type>arret</type>
+  </photo>
+<photo>
+  <num>5</num> 
+<question>هذه السيارة متوقفة على بعد 25 صم من حافة الرصيف</question>
+  <duree>38</duree>
+  <fichier>photoQuestion/arret/5.jpg</fichier> 
+  <son>sonQuestion/arret/5.mp3</son> 
+  <rep1> وقوفها قانوني </rep1>
+  <rep2>وقوفها غير قانوني </rep2>
+  <rep3>  </rep3>
+  <bonrep>A</bonrep>
+<reponse>« يجب أن يتم توقف أو وقوف أي عربة داخل مواطن العمران في نفس اتجاه حركة الجولان وحسب القواعد التالية: قرب الرصيف وعلى مسافة لا تزيد على 30 صم »
+ الفصل 18 أمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلق بالقواعد العامة للجولان
+</reponse>
+<type>arret</type>
+  </photo>
+  <photo>
+  <duree>34</duree>
+  <num>6</num> 
+<question>يمنع الوقوف في هذا الماكن لي أكثر من</question>
+  <fichier>photoQuestion/arret/6.jpg</fichier>
+  <son>sonQuestion/arret/6.mp3</son>
+  <rep1>7 أيام </rep1>
+  <rep2>8 أيام  </rep2>
+  <rep3>9 أيام </rep3>
+  <bonrep>A</bonrep>
+<reponse>
+يعتبر وقوف مفرطا كل وقوف بي صيفا مستمرة و بي نفس المكان و عال الطريق و توابعه لمدة تتجاوز ٧ أيام 
+الفصل 39من القانون عدد 71 المؤرخ 26 جويلية 1999و المتعلق بي إصدار مجلة الطرقات   </reponse>
+<type>arret</type>
+  </photo>
+  <photo>
+  <duree>37</duree>
+  <num>7</num> 
+<question>بعد هذه العلامة يمكنني الوقوف </question>
+  <fichier>photoQuestion/arret/7.jpg</fichier>
+  <son>sonQuestion/arret/7.mp3</son>
+  <rep1>على الجانب الايسر فقط </rep1>
+  <rep2>على جانب الأيمن فقط</rep2>
+  <rep3>اعلى جانبي الطريق </rep3>
+  <bonrep>C</bonrep>
+<reponse>يجب أن يتم التوقف أو وقوف حيون أو عربة داخل مواطن العمران 
+على الجهة اليمنى أو اليسرى من الطريق ذات الاتجاه الواحد 
+الفصل ٢٢ من الأمر عدد ١٥١ المؤرخ في ٢٤ جانفي ٢٠٠٠ وال متعلق بالقواعد   العامة للجولان  
+</reponse>
+<type>arret</type>
+  </photo>
+<photo>
+  <duree>23</duree>
+  <num>8</num> 
+<question>بوقوف العربة بهذا المكان</question>
+  <fichier>photoQuestion/arret/8.jpg</fichier>
+  <son>sonQuestion/arret/8.mp3</son>
+  <rep1>مسموح بيه </rep1>
+  <rep2>ممنوع </rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<reponse>يعتبر وقوف مضايق وقوف العربات
+قرب أماكن الأشغال 
+الفصل 22 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 وال متعلق بالقواعد   العامة للجولان</reponse>
+<type>arret</type>
+  </photo>
+<photo>
+  <duree>36</duree>
+  <num>9</num> 
+<question>قربة هذا المرتفع الوقوف أو التوقف</question>
+  <fichier>photoQuestion/arret/9.jpg</fichier>
+  <son>sonQuestion/arret/9.mp3</son>
+  <rep1>ممكن </rep1>
+  <rep2>غير ممكن  </rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<reponse>يحجر الوقوف و التوقف الخطير بال أماكن التي تكون فيها الرؤيا محدودة و خاصة 
+بل قمم المرتفعات و المنعرجات أذ كانت الرؤية غير مضمونة على مسافة 50م على أقل من اتجاهين 
+الفصل ٢٢ من الأمر عدد 151 المؤرخ في 24 جانفي 2000 وال متعلق بالقواعد   العامة للجولان</reponse>
+<type>arret</type>
+  </photo>
+<photo>
+  <duree>36</duree>
+  <num>10</num> 
+<question>قربة هذا المرتفع الوقوف أو التوقف </question>
+<fichier>photoQuestion/arret/10.jpg</fichier>
+<son>sonQuestion/arret/10.mp3</son>
+  <question>الوقوف في هذا المكان  </question>
+  <rep1>وقوف خطير</rep1>
+  <rep2>وقوف مضايق</rep2>
+  <rep3>وقوف مسموح به</rep3>
+  <bonrep>B</bonrep>
+<reponse>يحجرالوقوف و التوقف المضايق و يعتبر الوقوف و التوقف مضايق في الحالات التالية 
+بالمرارات  سبل و المحطات المخصصة لعربات النقل العمومي للأشخاص 
+الفصل 22 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 وال متعلق بالقواعد   العامة للجولان</reponse>
+<type>arret</type>
+  </photo>
+ 
+</photos>

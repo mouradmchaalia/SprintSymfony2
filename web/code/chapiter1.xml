@@ -1,0 +1,359 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>هذه العلامة تشير إلى تقاطع طريق مع سكة حديدية  </question> 
+    <fichier>photoQuestion/signalisation/1.jpg</fichier>
+  <son>sonQuestion/signalisation/1.mp3</son>
+  <rep1>مجهزة بحواجز أوتوماتيكية</rep1>
+  <rep2>غير مجهزة بحواجز </rep2>
+  <rep3>مجهزة بحواجز يدوية</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>  «  تقاطع طريق مع سكة حديدية بدون حواجز أو نصف حواجز.» 
+الفصل 18 ملحق " أ " ، الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق 
+
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>هذه العلامة تمنع</question> 
+  <fichier>photoQuestion/signalisation/2.jpg</fichier>
+  <son>sonQuestion/signalisation/2.mp3</son> 
+  <rep1>الوقوف</rep1>
+  <rep2>التوقف </rep2>
+  <rep3>الوقوف والتوقف</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>  « ممنوع الوقوف »
+ الفصل عدد 29 ملحق "هـ " علامات التوقف والوقوف الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>هذه الرسوم</question> 
+  <fichier>photoQuestion/signalisation/3.jpg</fichier>
+  <son>sonQuestion/signalisation/3.mp3</son> 
+  <rep1>تسمح لي بالمجاوزة</rep1>
+  <rep2>تجبرني على الدوران لليسار</rep2>
+  <rep3>تمنعني من المجاوزة</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>  « تكون أسهم الانزواء معقّفة قليلا، ويمكن أن ترسم بين الخطوط الطوليّة المتقطعة وتعني أن هذه الخطوط المتقطّعة ستصبح متواصلة وذلك بالنسبة للاتجاه المعاكس... »  لذلك فهي لا تمنع المجاوزة بالنسبة للعربات السّائرة في الإتّجاه المعاكس لها.
+الفصل عدد 38 الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+
+</reponse>
+</photo>
+
+
+ <photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>هذه العلامة تمنع</question> 
+  <fichier>photoQuestion/signalisation/4.jpg</fichier>
+  <son>sonQuestion/signalisation/4.mp3</son> 
+  <rep1>الوقوف فقط</rep1>
+  <rep2>التوقف فقط</rep2>
+  <rep3>الوقوف والتوقف</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>  « ممنوع الوقوف والتوقف»
+الفصل عدد 29 ملحق " هـ " علامات الوقوف والتوقف. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+
+</reponse>
+</photo>
+ <photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>هذه العلامة تدل على</question> 
+  <fichier>photoQuestion/signalisation/5.jpg</fichier>
+  <son>sonQuestion/signalisation/5.mp3</son> 
+  <rep1>نهاية الأولوية 
+	على طول 100 م</rep1>
+  <rep2>نهاية الأولوية بعد 100
+	 م من العلامة</rep2>
+  <rep3>بداية الأولوية 
+	بعد 100 م</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse> « نهاية طريق ذات أولوية »
+ « لافتة تبين طول الجزء الفاصل بين العلامة وبداية المنطقة الّتي تطبق فيها التراتيب المشار إليها»
+ الفصول 14 و21 ملحق " ب " علامات الأولوية وملحق " ح " اللافتات، لافتات المسافات. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+
+</reponse>
+</photo>
+
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>6</num> 
+<question>الطريق أمامك  سيضيق </question> 
+  <fichier>photoQuestion/signalisation/6.jpg</fichier>
+  <son>sonQuestion/signalisation/6.mp3</son> 
+  <rep1>من اليمين فقط</rep1>
+  <rep2>من اليسار فقط</rep2>
+  <rep3>من اليمين واليسار</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse> « طريق ضيق من اليمين »
+ الفصل 18 ملحق " أ " الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>7</num> 
+<question>هذه العلامة تعطي الأولوية </question> 
+  <fichier>photoQuestion/signalisation/7.jpg</fichier>
+  <son>sonQuestion/signalisation/7.mp3</son> 
+  <rep1>في المفترق القادم فقط </rep1>
+  <rep2>للسيّارات فقط</rep2>
+  <rep3>في كل المفترقات</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« تقاطع مع طريق وجب على مستعمليه فسح المجال» 
+الفصل 21 ملحق " ب " علامات الأولوية. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق 
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>8</num> 
+<question>هذه العلامة </question> 
+  <fichier>photoQuestion/signalisation/8.jpg</fichier>
+  <son>sonQuestion/signalisation/8.mp3</son> 
+  <rep1>علامة ارشاد</rep1>
+  <rep2>تمنع الجولان</rep2>
+  <rep3>تدلّ على طريق به أشغال</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« ممرّ بدون منفذ »
+ الفصل 30 ملحق " و " علامات الإرشاد. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>9</num> 
+<question>هذا المأوى يخصّ </question> 
+  <fichier>photoQuestion/signalisation/9.jpg</fichier>
+  <son>sonQuestion/signalisation/9.mp3</son> 
+  <rep1>كل العربات</rep1>
+  <rep2>عربات النقل العمومي</rep2>
+  <rep3>الشاحنات</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« مأوى للوقوف »
+الفصل 30 ملحق " و " علامات الإرشاد. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>10</num> 
+<question>هذه العلامة تشير إلى </question> 
+  <fichier>photoQuestion/signalisation/10.jpg</fichier>
+  <son>sonQuestion/signalisation/10.mp3</son> 
+  <rep1>منع الجولان في الإتّجاهين</rep1>
+  <rep2>اتجاه محجّر على كلّ العربات</rep2>
+  <rep3>منع الجولان على العربات ذات المحرّك باستثناء الدرّاجات النّارية</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« ممنوع الجولان في الإتّجاهين.» 
+الفصل عدد 25  ملحق " ج "  علامات المنع وانتهاء المنع. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق. 
+
+</reponse>
+</photo>
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>11</num> 
+<question>هذه العلامة تدل على </question> 
+  <fichier>photoQuestion/signalisation/11.jpg</fichier>
+  <son>sonQuestion/signalisation/11.mp3</son> 
+  <rep1>وجوب ترك مسافة الأمان بين العربات لا تقلّ عن 20 مترا</rep1>
+  <rep2>منع المرور للعربات الّتي يتجاوز طولها 20 مترا</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« يمنع الجولان دون ترك مسافة بين العربات لاتقل عن المسافة المبيّنة بالعلامة »
+الفصل عدد 25 ملحق " ج " علامات المنع وانتهاء المنع. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>12</num> 
+<question>هذه العلامة تدل على </question> 
+  <fichier>photoQuestion/signalisation/12.jpg</fichier>
+  <son>sonQuestion/signalisation/12.mp3</son> 
+  <rep1>خطر خروج دراجات عادية</rep1>
+  <rep2>منع المرور للدرّاجات</rep2>
+  <rep3>مسلك مخصص للدرّاجات</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« خروج دراجات عادية »
+الفصل عدد 18 ملحق " أ " علامات الخطر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق. 
+
+</reponse>
+</photo>
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>13</num> 
+<question>هذه العلامة تشير إلى أن </question> 
+  <fichier>photoQuestion/signalisation/13.jpg</fichier>
+  <son>sonQuestion/signalisation/13.mp3</son> 
+  <rep1>الطريق ذات الأولوية تنعرج لليمين</rep1>
+  <rep2>الطريق ذات الأولوية تنعرج لليسار</rep2>
+  <rep3>الأولوية لليمين</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« طريق ذات أولوية اللاّفتة تمثل رسما للمفترق القادم مع الإشارة بواسطة خط سميك لفروع المفترق الّتي تتمتع بالأولوية الفرع العمودي في أسفل اللاّفتة يمثل الطريق الّتي وضعت فيه العلامة. »
+الفصول  19 و 21 ملحق " ب " علامات الأولوية، الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>14</num> 
+<question>هذه العلامة تشير إلى </question> 
+  <fichier>photoQuestion/signalisation/14.jpg</fichier>
+  <son>sonQuestion/signalisation/14.mp3</son> 
+  <rep1>طريق مزلق</rep1>
+  <rep2>طريق مسنّم</rep2>
+  <rep3>حاشية خطيرة</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« حاشية خطيرة »
+الفصل عدد 18 ملحق " أ " علامات الخطر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>15</num> 
+<question>هذه العلامة تعني </question> 
+  <fichier>photoQuestion/signalisation/15.jpg</fichier>
+  <son>sonQuestion/signalisation/15.mp3</son> 
+  <rep1>مسلك خاص بالحافلات</rep1>
+  <rep2>محطّة حافلات</rep2>
+  <rep3>ممر ممنوع على الحافلات</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« محطة حافلات »
+الفصل 30 ملحق " و " علامات الإرشاد. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>16</num> 
+<question>هذه العلامة تشير إلى </question> 
+  <fichier>photoQuestion/signalisation/16.jpg</fichier>
+  <son>sonQuestion/signalisation/16.mp3</son> 
+  <rep1>وجود رياح دائرية</rep1>
+  <rep2>مفترق ذو اتجاه دوراني</rep2>
+  <rep3>وجود منعرجات خطيرة</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« مفترق طرق دوراني » 
+« يراد بمفترق طرقات ذو إتّجاه دوراني كلّ ساحة أو مفترق طرقات يشتمل على أرض مسطّحة مركزيّة لا يمكن عبورها ومحاطة بمعبّد ذو إتّجاه واحد من اليمين والذّي تنفذ فيه عدّة طرقات»
+الفصل  18 و 20 ملحق " أ " علامات الخطر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>17</num> 
+<question>هذه العلامة  تعني </question> 
+  <fichier>photoQuestion/signalisation/17.jpg</fichier>
+  <son>sonQuestion/signalisation/17.mp3</son> 
+  <rep1>مفترق ذو اتجاه دوراني</rep1>
+  <rep2>الدوران إجباري لليسار</rep2>
+  <rep3>الأولوية لليمين</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« مفترق طرق دوراني » 
+« يراد بمفترق طرقات ذو إتّجاه دوراني كلّ ساحة أو مفترق طرقات يشتمل على أرض مسطّحة مركزيّة لا يمكن عبورها ومحاطة بمعبّد ذو إتّجاه واحد من اليمين والذّي تنفذ فيه عدّة طرقات»
+الفصل  18 و 20 ملحق " أ " علامات الخطر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>18</num> 
+<question>هذه العلامة  تعني </question> 
+  <fichier>photoQuestion/signalisation/18.jpg</fichier>
+  <son>sonQuestion/signalisation/18.mp3</son> 
+  <rep1>مفترق ذو اتجاه دوراني</rep1>
+  <rep2>الدوران إجباري لليسار</rep2>
+  <rep3>الأولوية لليمين</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« مفترق طرق دوراني » 
+« يراد بمفترق طرقات ذو إتّجاه دوراني كلّ ساحة أو مفترق طرقات يشتمل على أرض مسطّحة مركزيّة لا يمكن عبورها ومحاطة بمعبّد ذو إتّجاه واحد من اليمين والذّي تنفذ فيه عدّة طرقات»
+الفصل  18 و 20 ملحق " أ " علامات الخطر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>19</num> 
+<question>هذه العلامات  تشير إلى </question> 
+  <fichier>photoQuestion/signalisation/19.jpg</fichier>
+  <son>sonQuestion/signalisation/19.mp3</son> 
+  <rep1>منعرج خطير جدّا</rep1>
+  <rep2>تغيير في اتجاه الجولان</rep2>
+  <rep3>طريق ضيّق بسبب أشغال</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« ركيزة منعرج خطير جدّا »
+الفصل 30 . الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>20</num> 
+<question>هذه العلامة تدلّ على أنّ  </question> 
+  <fichier>photoQuestion/signalisation/20.jpg</fichier>
+  <son>sonQuestion/signalisation/20.mp3</son> 
+  <rep1>أدنى سرعة إجبارية 60 كلم/س</rep1>
+  <rep2>أقصى سرعة إجبارية 60 كلم/س</rep2>
+  <rep3>السرعة المحبّذة 60 كلم/س</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« أدنى سرعة إجبارية »
+الفصل عدد 28 الملحق للرائد الرسمي ملحق " د " علامات الجبر وانتهاء الجبر. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+
+</reponse>
+</photo>
+</photos>

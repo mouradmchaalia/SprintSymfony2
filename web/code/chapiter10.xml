@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+ <photos>
+
+<photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>عند قيادة عربة نقل لمواد خطرة يجب على السائق أن تكون بحوزته </question> 
+  <fichier>photoQuestion/TMD/1.jpg</fichier>
+  <son>sonQuestion/TMD/1.mp3</son> 
+  <rep1>شهادة تكوين مهني</rep1>
+  <rep2>شهادة تكوين مهني </rep2>
+  <rep3>رخصة سياقة صنف " ج + هـ " في جميع الحالات. كلم/س</rep3>
+  <bonrep>A</bonrep>
+<type>TMD</type>
+<reponse>« يجب على كل سائق لعربة تحمل مواد خطرة أن تكون بحوزته شهادة تكوين مسلّمة من قبل الوزارة المكلّفة بالتكوين. » 
+الفصل 14 من القانون عدد 37 المؤرخ في 02 جوان 1977 والمتعلّق بنقل المواد الخطرة عبر الطرقات
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>يمنع الجولان بهذه الطريق على العربات الحاملة لكمية معينة  </question> 
+  <fichier>photoQuestion/TMD/2.jpg</fichier>
+  <son>sonQuestion/TMD/2.mp3</son> 
+  <rep1>يمكنها تلويث المياه</rep1>
+  <rep2>سريعة الإلتهاب </rep2>
+  <rep3>قابلة للإنفجار</rep3>
+  <bonrep>A</bonrep>
+<type>TMD</type>
+<reponse>« ممنوع الجولان على العربات الناقلة لكميّة معيّنة من مواد يمكنها تلويث المياه.» 
+الفصل 25 ملحق " ج " علامات المنع وانتهاء المنع. الأمر عدد 150 المؤرّخ في 24 جانفي 2000 والمتعلّق بإشارات وعلامات الطّريق.
+</reponse>
+</photo>
+  
+
+<photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>تبيّن هذه العلامة أن العربة حاملة لمواد  </question> 
+  <fichier>photoQuestion/TMD/3.jpg</fichier>
+  <son>sonQuestion/TMD/3.mp3</son> 
+  <rep1>خطرة</rep1>
+  <rep2>متفجرة </rep2>
+  <rep3>آكـلـة</rep3>
+  <bonrep>B</bonrep>
+<type>TMD</type>
+<reponse>القسم الثاني من الملحق لقرار وزير النقل المؤرخ في 19 جانفي 2000 والمتعلّق بضبط ملصّقات الخطر والعلامات المميزة الخاصّة بنقل المواد الخطرة عبر الطرقات.</reponse>
+</photo>
+  
+<photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>تتوضع اللّوحة البرتقاليّة على العربات الناقلة لمواد خطرة </question> 
+  <fichier>photoQuestion/TMD/4.jpg</fichier>
+  <son>sonQuestion/TMD/4.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>TMD</type>
+<reponse>« يجب أن تحمل العربات ومجموعات العربات الناقلة لمواد خطرة لوحتين مستطيلي الشكل ذات لون برتقالي عاكس للنور. » 
+الفصل 12 قرار وزير النقل المؤرخ في 19 جانفي 2000 والمتعلّق بضبط ملصّقات الخطر والعلامات المميزة الخاصّة بنقل المواد الخطرة عبر الطرقات.
+</reponse>
+</photo>
+  
+
+<photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>يمنع الدخول إلى هذه الطريق للعربات الحاملة  </question> 
+  <fichier>photoQuestion/TMD/5.jpg</fichier>
+  <son>sonQuestion/TMD/5.mp3</son> 
+  <rep1>نلكمية معينة من مواد يمكنها تلويث المياه</rep1>
+  <rep2>لكمية معينة من مواد متفجّرة أو سريعة الإلتهاب</rep2>
+  <bonrep>B</bonrep>
+<type>TMD</type>
+<reponse>« يجب أن تحمل العربات ومجموعات العربات الناقلة لمواد خطرة لوحتين مستطيلي الشكل ذات لون برتقالي عاكس للنور. » 
+الفصل 12 قرار وزير النقل المؤرخ في 19 جانفي 2000 والمتعلّق بضبط ملصّقات الخطر والعلامات المميزة الخاصّة بنقل المواد الخطرة عبر الطرقات.
+</reponse>
+</photo>
+  
+
+</photos>

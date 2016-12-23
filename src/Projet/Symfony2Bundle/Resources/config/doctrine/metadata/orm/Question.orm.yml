@@ -1,0 +1,14 @@
+Question:
+    type: entity
+    table: question
+    id:
+        idQuestion:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_question
+            generator:
+                strategy: IDENTITY
+    lifecycleCallbacks: {  }

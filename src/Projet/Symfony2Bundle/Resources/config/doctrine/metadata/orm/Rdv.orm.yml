@@ -1,0 +1,59 @@
+Rdv:
+    type: entity
+    table: rdv
+    indexes:
+        id_candidat:
+            columns:
+                - id_candidat
+        id_moniteur:
+            columns:
+                - id_moniteur
+    id:
+        idRdv:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_rdv
+            generator:
+                strategy: IDENTITY
+    fields:
+        nbreHeure:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: nbre_heure
+        date:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        lieu:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+    manyToOne:
+        idCandidat:
+            targetEntity: Candidat
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                id_candidat:
+                    referencedColumnName: id_candidat
+            orphanRemoval: false
+        idMoniteur:
+            targetEntity: Moniteur
+            cascade: {  }
+            mappedBy: null
+            inversedBy: null
+            joinColumns:
+                id_moniteur:
+                    referencedColumnName: id_moniteur
+            orphanRemoval: false
+    lifecycleCallbacks: {  }

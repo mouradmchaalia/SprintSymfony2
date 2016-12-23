@@ -1,0 +1,79 @@
+Moniteur:
+    type: entity
+    table: moniteur
+    indexes:
+        id_responsable_auto_ecole:
+            columns:
+                - id_responsable_auto_ecole
+    uniqueConstraints:
+        email:
+            columns:
+                - email
+    id:
+        idMoniteur:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_moniteur
+            generator:
+                strategy: IDENTITY
+    fields:
+        prenom:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        nom:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        numCin:
+            type: string
+            nullable: false
+            length: 8
+            fixed: false
+            comment: ''
+            column: num_cin
+        numTel:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: num_tel
+        adresse:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        dateDeNaissance:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+            column: date_de_naissance
+        email:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        password:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+        idResponsableAutoEcole:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_responsable_auto_ecole
+    lifecycleCallbacks: {  }

@@ -1,0 +1,86 @@
+{% extends 'ProjetSymfony2Bundle::layout.html.twig' %}
+
+
+
+{% block title %}Liste Responsable d'auto école{% endblock  %}
+{% block section1 %}<span class="glyphicon glyphicon-th-list" aria-hidden="true"> </span> Liste Responsable d'auto école    {% endblock  %}
+
+
+
+{% block content %}
+
+    <form method="POST" action="">
+
+        <input type="text"  name="search" width="800" placeholder=" Tapez un nom"/>
+
+        <input type="submit"  value="rechercher" />
+
+
+    </form>
+
+    <br>
+    <br>
+
+
+
+
+    <table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Nom Responsable d'auto école</th>
+        <th>Prenom Responsable d'auto école</th>
+        <th>Numèro de téléphone</th>
+         <th>Numèro de CIN</th>
+        <th>Email Responsable d'auto école</th>
+        
+        <th>Action</th>
+
+
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, responsable in responsables %}
+        <tr>
+
+
+
+
+            <td>{{ responsable.nom }}</td>
+            <td>{{ responsable.prenom }}</td>
+            <td>{{ responsable.numTel }}</td>
+            <td>{{ responsable.numCin }}</td>
+            <td>{{ responsable.email }}</td>
+            
+            <td><a href="{{path("projet_symfony2_supprimer_responsable_auto_ecole",{'id':responsable.idResponsableAutoEcole}) }}"><span class="label label-danger" >Supprimer</span></a></td>
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+<div class="col-lg-3 col-xs-6 active">
+     <a href="/PISYMFONY/web/app_dev.php/permik/ajouter_responsable"><button class="btn btn-block btn-primary btn-flat">Ajouter un responsable</button></a>
+     
+
+    
+</div>
+
+
+
+{% endblock  %}

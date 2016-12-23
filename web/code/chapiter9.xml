@@ -1,0 +1,178 @@
+﻿<?xml version="1.0"?>
+ <photos>
+
+<photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question> في الطرقات السيارة السرعة محدّدة بـ</question> 
+  <fichier>photoQuestion/vitesse/1.jpg</fichier>
+  <son>sonQuestion/vitesse/1.mp3</son> 
+  <rep1>90 كلم/س</rep1>
+  <rep2>100 كلم/س </rep2>
+  <rep3>110 كلم/س</rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+<reponse>« يجب على كل سائق أن لا يتجاوز السرعة القصوى على الطرقات السيارة المحدّدة بـ : 110كلم/س بالنسبة... »
+الفصل 7 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 والمتعلّق بالقواعد العامّة للجولان بالطرقات.
+</reponse>
+</photo>
+ <photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>في الطرقات السيارة يجب أن لا تقل السرعة الدنيا عن</question> 
+  <fichier>photoQuestion/vitesse/2.jpg</fichier>
+  <son>sonQuestion/vitesse/2.mp3</son> 
+  <rep1>30 كلم/س</rep1>
+  <rep2>50 كلم/س </rep2>
+  <rep3>60 كلم/س</rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+<reponse>«.... وفي حالة السير العادي يجب أن لا تقل السرعة الدنيا عن 60 كلم/س. » 
+الفصل 7 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 والمتعلّق بالقواعد العامّة للجولان بالطرقات. 
+
+</reponse>
+</photo>
+
+  <photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>عند الاقتراب من قمم المرتفعات يجب</question> 
+  <fichier>photoQuestion/vitesse/3.jpg</fichier>
+  <son>sonQuestion/vitesse/3.mp3</son> 
+  <rep1>	التخفيض من السرعة بصفة ملحوظة 	</rep1>
+  <rep2>الاكتفاء بالانحياز لليمين </rep2>
+  <rep3>الزيادة في السرعة للتغلّب على المرتفع</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+<reponse>« يجب على كل سائق أن يخفض من سرعته بصفة ملحوظة في الحالات التالية :
+       ... عند الاقتراب من قمم المرتفعات. »
+الفصل 3 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان
+
+</reponse>
+</photo>
+  <photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>في الليل وعند استعمال أضواء التقاطع خارج مواطن العمران يمكن أن تسير بسرعة </question> 
+  <fichier>photoQuestion/vitesse/4.jpg</fichier>
+  <son>sonQuestion/vitesse/4.mp3</son> 
+  <rep1>	90 كلم/س 	</rep1>
+  <rep2>70 كلم/س </rep2>
+  <rep3>50 كلم/س</rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+<reponse>« يجب أن تجهز كل سيارة في مقدّمتها بضوئي مقاطعة.. يضيء الطريق بصفة ناجعة ليلا...على مسافة 30م على الأقلّ » 
+الفصل 56 من الأمر 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات .
+«يجب على كل سائق أن يخفض من سرعته بصفة ملحوظة في الحالات التالية:
+_ إذا كانت ظروف الرؤية غير كافية... »
+الفصل 3 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان.
+
+</reponse>
+</photo>
+
+
+  <photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>مسافة الأمان الواجب تركها بين العربات مرتبطة </question> 
+  <fichier>photoQuestion/vitesse/5.jpg</fichier>
+  <son>sonQuestion/vitesse/5.mp3</son> 
+  <rep1>	بالحالة البد نية للسائق	</rep1>
+  <rep2>بحالة المعبّد </rep2>
+  <rep3>بحالة الأطواق المطاطية</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+<reponse>« مسافة الأمان بالنسبة لسائق تتوفر فيه المؤهلات البد نية والعقليّة...هيّ المسافة التي تقطعها العربة في ثانية»
+ وتتأثّر هذه المسافة حسب السرعة والمؤهّلات البدنيّة للسّائق 
+الفصل 2 من قرار وزير النقل المؤرخ في 25 جانفي 2000 والمتعلّق بضبط مسافة الأمان بين العربات.
+</reponse>
+</photo>
+
+  <photo>
+ <duree>40</duree>
+  <num>6</num> 
+<question>عند نزول الأمطار تكون السرعة محدّدة خارج مواطن العمران </question> 
+  <fichier>photoQuestion/vitesse/6.jpg</fichier>
+  <son>sonQuestion/vitesse/6.mp3</son> 
+  <rep1>بـ 70 كلم/س	</rep1>
+  <rep2>بـ 90 كلم/س </rep2>
+  <rep3>بـ 50 كلم/س</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+<reponse>« عند تقلّص الرؤية بسبب مطر أو ضباب أو غيرها من العوامل الطبيعية تخفض حدود السرعة... بـ 20 كلم/س بالنسبة إلى حدود السرعة المضبوطة على الطرقات السيّارة و الطرقات خارج مواطن العمران. »
+الفصل 8 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان.
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>7</num> 
+<question>عند نزول المطر تكون السرعة محدّدة داخل مواطن العمران بـ </question> 
+  <fichier>photoQuestion/vitesse/7.jpg</fichier>
+  <son>sonQuestion/vitesse/7.mp3</son> 
+  <rep1>50 كلم/س </rep1>
+  <rep2>40 كلم/س  </rep2>
+  <rep3>30 كلم/س  </rep3>
+  <bonrep>B</bonrep>
+<type>vitesse</type>
+<reponse>« عند تقلّص الرؤية بسبب مطر أو ضباب أو غيرها من العوامل الطبيعيّة تخفض حدود السرعة...بـ 10 كلم/س بالنسبة إلى حدود السرعة المضبوطة على الطرقات داخل مواطن العمران. »
+الفصل 8 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان.
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>8</num> 
+<question>عند رداءة الطقس يجب التخفيض من السرعة داخل مواطن العمران بـ </question> 
+  <fichier>photoQuestion/vitesse/8.jpg</fichier>
+  <son>sonQuestion/vitesse/8.mp3</son> 
+  <rep1>10 كلم/س </rep1>
+  <rep2>20 كلم/س  </rep2>
+  <rep3>25 كلم/س  </rep3>
+  <bonrep>B</bonrep>
+<type>vitesse</type>
+<reponse>« عند تقلّص الرؤية بسبب مطر أو ضباب أو غيرها من العوامل الطبيعيّة تخفض حدود السرعة...بـ 10 كلم/س بالنسبة إلى حدود السرعة المضبوطة على الطرقات داخل مواطن العمران. »
+ الفصل 8 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>9</num> 
+<question>عند رداءة الطقس يجب التخفيض من السرعة خارج مواطن العمران بـ </question> 
+  <fichier>photoQuestion/vitesse/9.jpg</fichier>
+  <son>sonQuestion/vitesse/9.mp3</son> 
+  <rep1>10 كلم/س </rep1>
+  <rep2>20 كلم/س  </rep2>
+  <rep3>30 كلم/س  </rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+<reponse>« عند تقلّص الرؤية بسبب مطر أو ضباب أو غيرها من العوامل الطبيعية تخفض حدود السرعة... بـ 20 كلم/س بالنسبة إلى حدود السرعة المضبوطة على الطرقات السيّارة و الطرقات خارج مواطن العمران... »
+الفصل 8 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان.
+
+</reponse>
+</photo>
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>10</num> 
+<question>الدرّاجات النارية الصغيرة سرعتها محدّدة بـ </question> 
+  <fichier>photoQuestion/vitesse/10.jpg</fichier>
+  <son>sonQuestion/vitesse/10.mp3</son> 
+  <rep1>50 كلم/س داخل مواطن العمران </rep1>
+  <rep2>40 كلم/س داخل مواطن العمران  </rep2>
+  <rep3>50 كلم/س خارج مواطن العمران  </rep3>
+  <bonrep>B</bonrep>
+<type>vitesse</type>
+<reponse>« يجب أن لا يتجاوز كل سائق درّاجة ناريّة صغيرة سرعة 40 كلم/س. »
+الفصل 9 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 والمتعلّق بالقواعد العامّة للجولان بالطرقات.
+
+</reponse>
+</photo>
+
+
+
+
+</photos>

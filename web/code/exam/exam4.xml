@@ -1,0 +1,366 @@
+﻿<?xml version="1.0"?>
+<photos>
+<photo>
+ <duree>28</duree>
+  <num>1</num> 
+<question>هذه العلامة تعطي الاولوية </question> 
+  <fichier>photoQuestion/signalisation/7.jpg</fichier>
+  <son>sonQuestion/signalisation/7.mp3</son> 
+  <rep1>فى المفترق القادم فقط </rep1>
+  <rep2>للسيارات فقط</rep2>
+  <rep3>فى كل المفترقات</rep3>
+  <bonrep>A</bonrep>
+<type>signalisation</type>
+</photo>
+<photo>
+<num>2</num> 
+ <duree>38</duree>
+<question>استعمال حزام الامان مستوجب على السائق ومرافقيه الاماميين</question> 
+  <fichier>photoQuestion/reglementation/12.jpg</fichier>
+  <son>sonQuestion/reglementation/12.mp3</son> 
+  <rep1>داخل وخارج مواطن العمران</rep1>
+  <rep2>حين تجاوز خمسون كلم فى الساعة</rep2>
+  <rep3>على الطرقات السيارة</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+<num>3</num> 
+ <duree>43</duree>
+<question>فى هذا المنعرج</question> 
+  <fichier>photoQuestion/reglementation/13.jpg</fichier>
+  <son>sonQuestion/reglementation/13.mp3</son> 
+  <rep1>اخفض من السرعة قبل المنعرج ثم احافظ على سرعة معتدلة</rep1>
+  <rep2>اخفض من السرعة وأنحاز الى اليسار</rep2>
+  <rep3>أستعمل جهاز الفرملة الرئيسي بقوة</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+<num>4</num> 
+ <duree>27</duree>
+<question>يجب على الحمولة أن لا تتجاوز من الامام مستوى</question> 
+  <fichier>photoQuestion/reglementation/14.jpg</fichier>
+  <son>sonQuestion/reglementation/14.mp3</son> 
+  <rep1>حجرة القيادة</rep1>
+  <rep2>مقدم العربة</rep2>
+  <rep3>المغزل الأمامي</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>26</duree>
+  <num>5</num> 
+<question>هذه العلامة </question> 
+  <fichier>photoQuestion/signalisation/8.jpg</fichier>
+  <son>sonQuestion/signalisation/8.mp3</son> 
+  <rep1>علامة ارشاد</rep1>
+  <rep2>تمنع الجولان</rep2>
+  <rep3>تدل على طريق به أشغال</rep3>
+  <bonrep>A</bonrep>
+<type>signalisation</type>
+</photo>
+<photo>
+ <duree>41</duree>
+  <num>6</num> 
+<question>يجب القيام بالتنفس الاصطناعي لمختنق في حادث مرور</question> 
+  <fichier>photoQuestion/secourisme/4.jpg</fichier>
+  <son>sonQuestion/secourisme/4.mp3</son> 
+  <rep1>على الفور</rep1>
+  <rep2>قبل رخف مجاري التنفس</rep2>
+  <rep3>بعد تسريح مجاري التنفس وتنظيف الفم</rep3>
+  <bonrep>C</bonrep>
+<type>secourisme</type>
+
+</photo> 
+<photo>
+<num>7</num>
+ <duree>26</duree> 
+<question>في هذه الطريق وعندما تكون الإنارة مسترسلة أستعمل</question> 
+  <fichier>photoQuestion/reglementation/15.jpg</fichier>
+  <son>sonQuestion/reglementation/15.mp3</son> 
+  <rep1>أضواء الطريق</rep1>
+  <rep2>أضواء المقاطعة</rep2>
+  <rep3>أضواء الوضعيّة</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+<num>8</num> 
+ <duree>33</duree>
+<question>الإشارة الدالة على التربص تكون على شكل قرص</question> 
+  <fichier>photoQuestion/reglementation/16.jpg</fichier>
+  <son>sonQuestion/reglementation/16.mp3</son> 
+  <rep1>أبيض اللون وبأرقام سوداء</rep1>
+  <rep2>أبيض اللون وبأرقام حمراء</rep2>
+  <rep3>أزرق اللون وبأرقام بيضاء</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>26</duree>
+  <num>9</num> 
+<question>عند القيام بسفرة طويلة يجب</question> 
+  <fichier>photoQuestion/mecanique/4.jpg</fichier>
+  <son>sonQuestion/MECANIQUE/4.mp3</son> 
+  <rep1>الزيادة في ضغط العجلات</rep1>
+  <rep2>التخفيض في ضغط العجلات </rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>mecanique</type>
+</photo>
+<photo>
+<num>10</num> 
+ <duree>32</duree>
+<question>يجب أن تجهز كل سيارة بـ</question> 
+  <fichier>photoQuestion/reglementation/17.jpg</fichier>
+  <son>sonQuestion/reglementation/17.mp3</son> 
+  <rep1>مثلث خطر</rep1>
+  <rep2>مثلثي خطر</rep2>
+  <rep3>بأضواء النجدة في حالة عدم وجود مثلث خطر</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>11</num> 
+<question>مسافة الأمان الواجب تركها بين العربات مرتبطة </question> 
+  <fichier>photoQuestion/vitesse/5.jpg</fichier>
+  <son>sonQuestion/VITESSE/5.mp3</son> 
+  <rep1>بالحالة البد نية للسائق	</rep1>
+  <rep2>بحالة المعبد </rep2>
+  <rep3>بحالة الأطواق المطاطية</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+</photo>
+<photo>
+ <duree>49</duree>
+  <num>12</num> 
+<question>استعمال أكثر من رخصة سياقة من نفس الصنف يعرض السائق إلى عقوبة</question> 
+  <fichier>photoQuestion/infraction/10.jpg</fichier>
+  <son>sonQuestion/infraction/10.mp3</son> 
+  <rep1>السجن لمدة أقصاها شهر</rep1>
+  <rep2>السحب لرخصة السياقة لمدة أقصاها ستة أشهر</rep2>
+  <rep3>بخطية مالية أقصاها مائتان  دينار</rep3>
+  <bonrep>A</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+  <duree>38</duree>
+  <num>13</num> 
+<question>في هذا المكان يمنع</question>
+  <fichier>photoQuestion/arret/3.jpg</fichier>
+  <son>sonQuestion/arret/3.mp3</son> 
+  <rep1>الوقوف و التوقف قبل العلامة</rep1>
+  <rep2>الوقوف و التوقف قبل و بعد العلامة</rep2>
+  <rep3>الوقوف و التوقف بعد العلامة </rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+  </photo>  
+<photo>
+ <duree>21</duree>
+  <num>14</num> 
+<question>تتوضع اللوحة البرتقالية على العربات الناقلة لمواد خطرة </question> 
+  <fichier>photoQuestion/tmd/4.jpg</fichier>
+  <son>sonQuestion/tmd/4.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>tmd</type>
+</photo>
+<photo>
+  <duree>42</duree>
+  <num>15</num>
+<question>في هذا النهج ذو اتجاهين يمكنني الوقوف أو التوقف </question> 
+  <fichier>photoQuestion/arret/4.jpg </fichier>
+  <son>sonQuestion/arret/4.mp3</son> 
+  <rep1>على الجهة اليمنى فقط </rep1>
+  <rep2>على الجهة اليمنى أو اليسر ى </rep2>
+  <rep3>على الجهة اليمنى في الليل فقط</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+  </photo>
+<photo>
+ <duree>39</duree>
+  <num>16</num> 
+<question>عند السياقة تحت تأثير حالة كحولية يعاقب السائق بـسحب رخصة السياقة لمدة</question> 
+  <fichier>photoQuestion/infraction/12.jpg</fichier>
+  <son>sonQuestion/infraction/12.mp3</son> 
+  <rep1>أقصاها ستة أشهر</rep1>
+  <rep2>أقصاها سنة</rep2>
+  <rep3>أقصاها شهران.</rep3>
+  <bonrep>A</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+ <duree>38</duree>
+  <num>17</num> 
+<question>عند نزول الأمطار تكون السرعة محددة خارج مواطن العمران </question> 
+  <fichier>photoQuestion/vitesse/6.jpg</fichier>
+  <son>sonQuestion/VITESSE/6.mp3</son> 
+  <rep1>بـ 70 كلم/س	</rep1>
+  <rep2>بـ 90 كلم/س </rep2>
+  <rep3>بـ 50 كلم/س</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+</photo>
+<photo>
+ <duree>38</duree>
+  <num>18</num> 
+<question>في حالة وجود أشغال على الجانب الأيمن للطريق  </question> 
+  <fichier>photoQuestion/croisement/4.jpg</fichier>
+  <son>sonQuestion/croisement/4.mp3</son> 
+  <rep1>يمكنني المجاوزة</rep1>
+  <rep2>أخفض من السرعة وأواصل السير</rep2>
+  <rep3>أفسح المجال للشاحنة</rep3>
+  <bonrep>C</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>46</duree>
+  <num>19</num> 
+<question>قراءة الكيلومترات المسجلة بالعداد تمكن من</question> 
+  <fichier>photoQuestion/mecanique/3.jpg</fichier>
+  <son>sonQuestion/MECANIQUE/3.mp3</son> 
+  <rep1>تحديد مواعيد إضافة ماء البطارية</rep1>
+  <rep2>احترام أوقات تغيير زيت المحرّك </rep2>
+  <rep3>تحديد مواعيد القيام بالفحص الفنّي</rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+</photo>
+<photo>
+ <duree>46</duree>
+  <num>20</num> 
+<question>عندما يكون الضغط اليدوي المباشر على مكان النزيف غير ناجع يجب</question> 
+  <fichier>photoQuestion/secourisme/6.jpg</fichier>
+  <son>sonQuestion/secourisme/6.mp3</son> 
+  <rep1>إعلام الطبيب</rep1>
+  <rep2>القيام بنقطة الضغط</rep2>
+  <rep3>وضع المضغط بين مكان النزيف والقلب</rep3>
+  <bonrep>B</bonrep>
+<type>secourisme</type>
+</photo>
+<photo>
+ <duree>47</duree>
+  <num>21</num> 
+<question>سوف ينتقل الضوء من البرتقالي الى الاحمر</question> 
+  <fichier>photoQuestion/priorite/7.jpg</fichier>
+  <son>sonQuestion/priorite/7.mp3</son> 
+  <rep1>أمر لانى اتمتع بالاولوية فالمفترق القادم </rep1>
+  <rep2>أمر بسرعة قبل أن يصبح الضوء أحمر</rep2>
+  <rep3>أخفض من السرعة وأتوقف</rep3>
+  <bonrep>C</bonrep>
+<type>priorite</type>
+</photo>
+<photo>
+ <duree>47</duree>
+  <num>22</num> 
+<question>في المفترق القادم</question> 
+  <fichier>photoQuestion/priorite/8.jpg</fichier>
+  <son>sonQuestion/priorite/8.mp3</son> 
+  <rep1>يجب على فسح المجال للعربات القادمة من اليمين</rep1>
+  <rep2>يمكنني المرور دون فسح المجال</rep2>
+  <rep3>يجب على فسح المجال للعربات القادمة من الجانبين</rep3>
+  <bonrep>B</bonrep>
+<type>priorite</type>
+
+</photo>
+<photo>
+ <duree>25</duree>
+  <num>23</num> 
+<question>لمجاوزة هذه الشاحنة في هذا الطريق ذو الاتجاهين  </question> 
+  <fichier>photoQuestion/croisement/3.jpg</fichier>
+  <son>sonQuestion/croisement/3.mp3</son> 
+  <rep1>استعمل المسلك الاوسط</rep1>
+  <rep2>استعمل المسلك الايسر</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>45</duree>
+  <num>24</num> 
+<question>عند تناول مشروبات كحولية داخل العربة يتعرض المخالف</question> 
+  <fichier>photoQuestion/infraction/11.jpg</fichier>
+  <son>sonQuestion/infraction/11.mp3</son> 
+  <rep1>لسحب رخصة السياقة لمدة سنة</rep1>
+  <rep2>لخطية مالية أقصاها خمسة مئة دينار</rep2>
+  <rep3>للسجن لمدة أقصاها شهر</rep3>
+  <bonrep>B</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+ <duree>44</duree>
+  <num>25</num> 
+<question>في الليل وعند استعمال أضواء التقاطع خارج مواطن العمران يمكن أن تسير بسرعة </question> 
+  <fichier>photoQuestion/vitesse/4.jpg</fichier>
+  <son>sonQuestion/VITESSE/4.mp3</son> 
+  <rep1>تسعون  كلم في الساعة </rep1>
+  <rep2>سبعون   كلم في الساعة </rep2>
+  <rep3>خمسون    كلم في الساعة</rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>26</num> 
+<question>في هذا المرتفع لا تمكن المقاطعة الا عند قيام احدى العربتين بعملية السير الى الوراء  </question> 
+  <fichier>photoQuestion/croisement/5.jpg</fichier>
+  <son>sonQuestion/croisement/5.mp3</son> 
+  <rep1>يستوجب ذلك على السيارة</rep1>
+  <rep2>يستوجب ذلك على مجموعة العربات</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>22</duree>
+  <num>27</num> 
+<question>أفسح المجال لهذه العربة</question> 
+  <fichier>photoQuestion/priorite/5.jpg</fichier>
+  <son>sonQuestion/priorite/5.mp3</son> 
+  <rep1>في كل الحالات</rep1>
+  <rep2>حين تستعمل منبهاتها الخاصة</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>priorite</type>
+
+</photo>
+<photo>
+ <duree>43</duree>
+  <num>28</num> 
+<question>الاضواء الثلاثية لا تشتغل</question> 
+  <fichier>photoQuestion/priorite/6.jpg</fichier>
+  <son>sonQuestion/priorite/6.mp3</son> 
+  <rep1>يجب أن أتوقف وأفسح المجال للمترو</rep1>
+  <rep2>يمكنني مواصلة السير بحذر</rep2>
+  <rep3>أفعل ما تقوم به السيارة التى أمامي</rep3>
+  <bonrep>A</bonrep>
+<type>priorite</type>
+</photo>
+<photo>
+ <duree>23</duree>
+  <num>29</num> 
+<question>هذه العلامة تدل على</question> 
+  <fichier>photoQuestion/signalisation/5.jpg</fichier>
+  <son>sonQuestion/signalisation/5.mp3</son> 
+  <rep1> م100 نهاية الأولوية	 على طول </rep1>
+  <rep2>نهاية الأولوية بعد 100 	 م من العلامة</rep2>
+  <rep3>بداية الأولوية	بعد 100 م</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+</photo>
+<photo>
+ <duree>23</duree>
+  <num>30</num> 
+<question>الطريق أمامك  سيضيق </question> 
+  <fichier>photoQuestion/signalisation/6.jpg</fichier>
+  <son>sonQuestion/signalisation/6.mp3</son> 
+  <rep1>من اليمين فقط</rep1>
+  <rep2>من اليسار فقط</rep2>
+  <rep3>من اليمين واليسار</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+</photo>
+</photos>

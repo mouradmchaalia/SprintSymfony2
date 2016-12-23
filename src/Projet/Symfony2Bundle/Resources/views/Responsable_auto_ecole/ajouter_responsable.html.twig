@@ -1,0 +1,63 @@
+{% extends 'ProjetSymfony2Bundle::layout.html.twig' %}
+
+{% block title %}Ajouter un Responsable d'auto école {% endblock  %}
+{% block section1 %}<span class="glyphicon glyphicon-user" aria-hidden="true"> </span> Ajouter un Responsable d'auto école    {% endblock  %}
+
+
+
+{% block content %}
+
+
+
+
+    <form  method="POST">
+        <fieldset>
+            <legend>Coordonée Responsable d'auto école</legend>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+
+                        <label >Nom Responsable d'auto école :</label>
+                        <input type="text" class="form-control" name="Nomresp" required="required" placeholder="Entrer votre Nom">
+
+                        <label >Prenom Responsable d'auto école :</label>
+                        <input type="text" class="form-control" name="Prenomresp" placeholder="Entrer votre Prenom" required="required">
+
+                        <label >Numèro CIN :</label>
+                        <input type="text" class="form-control" name="NumèroCIN" required="required" placeholder="Entrer votre Numèro de CIN">
+
+                        <label >Numèro téléphone :</label>
+                        <input type="text" class="form-control" name="NumèroTéléphone" required="required" placeholder="Entrer votre Numèro de téléphone">
+
+                        <label >Email Responsable d'auto école :</label>
+                        <div class="input-group ">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-envelope"></span>
+                            </span>
+                            <input  name="Email" class="form-control" type="email" placeholder="tapez votre Email">
+                        </div>
+
+                        <label >Mot de passe :</label>
+                        <div class="input-group ">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-lock"></span>
+                            </span>
+                            <input name="MotDePasse" class="form-control" type="password" placeholder="tapez votre mot de passe">
+                        </div> 
+
+
+                    </div>       
+
+                    <button type="submit" class="btn btn-default">Submit</button>
+
+                    <div class="col-md-8"></div>
+                </div>
+        </fieldset>
+    </form>
+
+
+
+
+
+
+{% endblock  %}

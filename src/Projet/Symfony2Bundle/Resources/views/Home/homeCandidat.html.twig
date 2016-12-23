@@ -1,0 +1,36 @@
+{% extends "ProjetSymfony2Bundle::layout3.html.twig" %}
+
+{% block saif %}
+    <h3>Rechercher </h3>
+    <form  method="POST" action="" >
+        date : <input type="text" name="date"/>
+        <input type="submit" value="Chercher">
+    </form>
+    <h1>La liste des Rendez-vous</h1>
+    <table border="">
+        <tr>
+            <td> Lieu du Rendez-vous </td>
+            <td> Date du Rendez-vous </td>
+            <td> Nombre d'heure </td>
+
+
+            {#<td> Suppression </td>
+            <td> Mise à jour </td>#}
+            {% for rdv in rdvs %}
+            <tr>
+                <td>{{rdv.lieu}}</td>
+                <td>{{rdv.date}}</td>
+                <td>{{rdv.nbreHeure}}</td>
+
+
+
+            </tr>
+        {% endfor%}
+    </tr>
+</table>
+{% endblock %}
+
+{% block wael %}
+  hhhhh
+    {#  <object width="400" height="260" data="http://localhost/PISYMFONY/web/code/Test1/test.swf"></object> #}
+{% endblock %}

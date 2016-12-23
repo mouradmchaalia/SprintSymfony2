@@ -1,0 +1,84 @@
+{% extends 'ProjetSymfony2Bundle::layout.html.twig' %}
+
+
+
+{% block title %}Liste Candidat{% endblock  %}
+{% block section1 %}<span class="glyphicon glyphicon-th-list" aria-hidden="true"> </span> Liste Candidat    {% endblock  %}
+
+
+
+{% block content %}
+
+    <form method="POST" action="">
+
+        <input type="text"  name="search" width="800" placeholder=" Tapez un nom"/>
+
+        <input type="submit"  value="rechercher" />
+
+
+    </form>
+
+    <br>
+    <br>
+
+
+
+
+    <table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Nom Candidat</th>
+        <th>Prenom Candidat</th>
+        <th>Date de naissance</th>
+        <th>Email Candidat</th>
+        <th>Adresse</th>
+        <th>Numèro de téléphone</th>
+        <th>Action</th>
+
+
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, candidat in candidats %}
+        <tr>
+
+
+
+
+            <td>{{ candidat.nom }}</td>
+            <td>{{ candidat.prenom }}</td>
+            <td>{{ candidat.dateDeNaissance }}</td>
+            <td>{{ candidat.email }}</td>
+            <td>{{ candidat.adresse }}</td>
+            <td>{{ candidat.numTel }}</td>
+            <td><a href="{{path("projet_symfony2_supprimer_candidat",{'id':candidat.idCandidat}) }}"><span class="label label-danger" >Supprimer</span></a></td>
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+ <div class="col-lg-3 col-xs-6 active">
+     <a href="{{path("projet_symfony2_ajouter_candidat") }}"><button class="btn btn-block btn-primary btn-flat">Ajouter un candidat</button></a>
+     
+
+    
+</div>
+
+{% endblock  %}

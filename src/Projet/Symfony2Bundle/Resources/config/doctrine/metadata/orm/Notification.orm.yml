@@ -1,0 +1,37 @@
+Notification:
+    type: entity
+    table: notification
+    id:
+        idNotification:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_notification
+            generator:
+                strategy: IDENTITY
+    fields:
+        expediteur:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        lu:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        idRdv:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_rdv
+        idRdvTemp:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_rdv_temp
+    lifecycleCallbacks: {  }

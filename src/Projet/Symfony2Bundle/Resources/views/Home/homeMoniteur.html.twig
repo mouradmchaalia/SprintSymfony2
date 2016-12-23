@@ -1,0 +1,60 @@
+{# empty Twig template #}
+{% extends "ProjetSymfony2Bundle::layout4.html.twig" %}
+
+
+{% block saif %}
+     <table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Lieu du RDV</th>
+        <th>Date du RDV</th>
+        <th>Nombre d'heure</th>
+        
+  <th>Action</th>
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, rdv in rdvs %}
+        <tr>
+
+
+
+
+            <td>{{ rdv.lieu }}</td>
+            <td>{{ rdv.date }}</td>
+            <td>{{ rdv.nbreHeure }}</td>
+             <td><a href="{{path("projet_symfony2_supprimer_rdv",{'id':rdv.idRdv}) }}"><span class="label label-danger" >Supprimer</span></a></td>
+            
+            
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+ 
+    <div class="col-lg-3 col-xs-6 active">
+     <a href="{{path("projet_symfony2_ajouter_rdv") }}"><button class="btn btn-block btn-primary btn-flat">Ajouter un RDV</button></a>
+     
+
+    
+</div>
+
+    
+    {% endblock %}

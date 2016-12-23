@@ -1,0 +1,21 @@
+Commentaire:
+    type: entity
+    table: commentaire
+    id:
+        idCommentaire:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_commentaire
+            generator:
+                strategy: IDENTITY
+    fields:
+        description:
+            type: text
+            nullable: false
+            length: null
+            fixed: false
+            comment: ''
+    lifecycleCallbacks: {  }

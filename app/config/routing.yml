@@ -1,0 +1,13 @@
+my_app_user:
+    resource: "@MyAppUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+
+projet_symfony2:
+    resource: "@ProjetSymfony2Bundle/Resources/config/routing.yml"
+    prefix:   /permik
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
+    prefix: /permik
+

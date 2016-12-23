@@ -1,0 +1,257 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>عمليّة المقاطعة تقع  </question> 
+  <fichier>photoQuestion/croisement/1.jpg</fichier>
+  <son>sonQuestion/croisement/1.mp3</son> 
+  <rep1>على اليمين</rep1>
+  <rep2>على اليسار </rep2>
+  <rep3>حسب إختيار السّائق</rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse>  تكون المقاطعة على اليمين والمجاوزة على اليسار 
+ الفصل 17  من القانون عدد 71 المؤرخ في 26 جويلية 1999 يتعلق بإصدار مجلة الطرقات.
+
+</reponse>
+</photo>
+
+ 
+
+ <photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>في هذه الوضعية  </question> 
+  <fichier>photoQuestion/croisement/2.jpg</fichier>
+  <son>sonQuestion/croisement/2.mp3</son> 
+  <rep1>أفسح المجال للسيارة القادمة من الأمام</rep1>
+  <rep2>أمر قبل السيارة القادمة من الأمام</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+<reponse> على كل سائق أن يترك عند المقاطعة مسافة جانبية كافية.وأن ينحاز عند الاقتضاء إلى أقصى يمينه وإن تعذر عليه ذلك بسبب وجود عائق،عليه أن يخفض من سرعته وأن يتوقف عند الاقتضاء، لتمكين مستعملي الطريق القادمين في الاتجاه المعاكس من المرور  
+ الفصل 17 قانون عدد 71 المؤرخ في 26 جويلية 1999 يتعلق بإصدار مجلة الطرقات.
+
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>لمجاوزة هذه الشّاحنة في هذا الطّريق ذو الإتّجاهين  </question> 
+  <fichier>photoQuestion/croisement/3.jpg</fichier>
+  <son>sonQuestion/croisement/3.mp3</son> 
+  <rep1>استعمل المسلك الأوسط</rep1>
+  <rep2>استعمل المسلك الأيسر</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse>  إذا إحتوى المعبّد ذو الإتّجاهين على ثلاثة سبل مشخّّصة ماديا وجب على كلّ سائق يريد المجاوزة أن يسلك السّبيل الأوسط دون سواها 
+الفصل 14 من الأمر عدد 151  المؤرخ في 24 جانفي 2000 والمتعلّق بالقواعد العامّة للجولان
+
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>في حالة وجود أشغال على الجانب الأيمن للطريق  </question> 
+  <fichier>photoQuestion/croisement/4.jpg</fichier>
+  <son>sonQuestion/croisement/4.mp3</son> 
+  <rep1>يمكنني المجاوزة</rep1>
+  <rep2>أخفض من السرعة وأواصل السير</rep2>
+  <rep3>أفسح المجال للشاحنة</rep3>
+  <bonrep>C</bonrep>
+<type>croisement</type>
+<reponse>  يجب على كل سائق أن يترك عند المقاطعة مسافة جانبية كافية وأن ينحاز عند الاقتضاء إلى أقصى يمينه وإن تعذر عليه ذلك بسبب وجود عائق ما، عليه أن يخفض من سرعته وأن يتوقف عند الاقتضاء لتمكين مستعملي الطريق القادمين في الاتجاه المعاكس من المرور
+ الفصل 17 قانون عدد 71 المؤرخ في 26 جويلية 1999 يتعلق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+
+
+ <photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>في هذا المرتفع، لا تمكن المقاطعة، إلاّ عند قيام إحدى العربتين بعمليّة السير إلى الوراء  </question> 
+  <fichier>photoQuestion/croisement/5.jpg</fichier>
+  <son>sonQuestion/croisement/5.mp3</son> 
+  <rep1>يستوجب ذلك على السيّارة</rep1>
+  <rep2>يستوجب ذلك على مجموعة العربات</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse> « إذا استوجبت المقاطعة القيام بعملية السير إلى الوراء تكون هذه العملية مفروضة على سائقي :
+العربات المنفردة بدل مجموعة العربات... »
+الفصل 16 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلق بالقواعد العامة للجولان
+
+</reponse>
+</photo>
+
+
+ <photo>
+ <duree>40</duree>
+  <num>6</num> 
+<question>في هذا المرتفع  </question> 
+  <fichier>photoQuestion/croisement/6.jpg</fichier>
+  <son>sonQuestion/croisement/6.mp3</son> 
+  <rep1>الأولوية للعربات الصاعدة</rep1>
+  <rep2>الأولوية للعربات النازلة</rep2>
+  <rep3>الأولوية للعربات الخفيفة</rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse>  إذا اتضحت صعوبة المقاطعة بالطرقات المنحدرة، يجب على سائقي العربات النازلة فسح المجال لمرور العربات الصاعدة.
+الفصل 16 الفقرة الثالثة أمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلق بالقواعد العامة للجولان.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>7</num> 
+<question>في هذه الوضعية</question> 
+  <fichier>photoQuestion/croisement/7.jpg</fichier>
+  <son>sonQuestion/croisement/7.mp3</son> 
+  <rep1>الأولوية للعربة القادمة من الأمام</rep1>
+  <rep2>الأولوية لمن يتوغل أولا</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>  يجب على كل سائق أن يترك عند المقاطعة مسافة جانبية كافية وأن ينحاز عند الاقتضاء إلى أقصى يمينه وإن تعذر عليه ذلك بسبب وجود عائق ما، عليه أن يخفض من سرعته وأن يتوقف عند الاقتضاء لتمكين مستعملي الطريق القادمين في الاتجاه المعاكس من المرور
+ الفصل 17 قانون عدد 71 المؤرخ في 26 جويلية 1999 يتعلق بإصدار مجلّة الطرقات
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>8</num> 
+<question>يمكنني مجاوزة هذه العربة البطيئة</question> 
+  <fichier>photoQuestion/croisement/8.jpg</fichier>
+  <son>sonQuestion/croisement/8.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+<reponse> « يجب على كل سائق يريد القيام بعملية مجاوزة أن يتأكّد من قدرته على القيام بذلك بدون خطر وعليه خاصّة أخذ الاحتياطيات التالية قبل المجاوزة : - أن يتأكّد من عدم وجود حالة من حالات المجاوزة.
+أن يتأكّد من أن السبيل شاغر على مسافة كافية تمكّن من القيام بهذه العملية بدون خطر على العربات القادمة في الاتجاه المعاكس
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>9</num> 
+<question>المقاطعة في الليل تستوجب التخفيض من السرعة</question> 
+  <fichier>photoQuestion/croisement/9.jpg</fichier>
+  <son>sonQuestion/croisement/9.mp3</son> 
+  <rep1>نواستعمال أضواء التّلاقي</rep1>
+  <rep2>واستعمال أضواء الوضعيّة</rep2>
+  <rep3>واستعمال أضواء الطريق</rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse> يجب استعمال أضواء التلاقي ليلا كلما اقتضت ظروف الرؤية ذلك في النهار في الحالات التالية:
+1-عند التلاق إذا كان ضوء الطريق يبهر السائق القادم من الاتجاه المعاكس.
+الفصل27.الفقرة الأولى من الأمر عدد151 المؤرخ في 24 جانفي 2000 يتعلق بالقواعد العامة للجولان
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>10</num> 
+<question>يمكنني مجاوزة هذه العربة البطيئة</question> 
+  <fichier>photoQuestion/croisement/10.jpg</fichier>
+  <son>sonQuestion/croisement/10.mp3</son> 
+  <rep1>أشغل أضواء الطريق</rep1>
+  <rep2>أشغل أضواء المقاطعة</rep2>
+  <rep3>يجب علي التوقف</rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+<reponse>  يجب استعمال أضواء التلاقي ليلا كلما اقتضت ظروف الرؤية ذلك في النهار في الحالات التالية
+1-عند التلاق إذا كان ضوء الطريق يبهر السائق القادم من الاتجاه المعاكس
+الفصل27.الفقرة الأولى من الأمر عدد151 المؤرخ في 24 جانفي 2000 يتعلق بالقواعد العامة للجولان.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>11</num> 
+<question>في هذه الوضعية</question> 
+  <fichier>photoQuestion/croisement/11.jpg</fichier>
+  <son>sonQuestion/CROISEMENT/11.mp3</son> 
+  <rep1>يمكنني المجاوزة</rep1>
+  <rep2>لا يمكنني المجاوزة</rep2>
+  <rep3>يجب علي التوقف</rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+<reponse> « يجب على كل سائق يريد القيام بعملية مجاوزة أن يتأكّد من قدرته على القيام بذلك بدون خطر وعليه خاصّة أخذ الاحتياطيات التالية قبل المجاوزة : - أن يتأكّد من عدم وجود حالة من حالات منع المجاوزة.
+أن يتأكّد من أن السبيل شاغر على مسافة كافية تمكّن من القيام بهذه العملية بدون خطر على العربات القادمة في الاتجاه المعاكس...
+- أن يتأكّد أنّ السّائق المتقدّم عليه والسّائق الذّي يتبعه لم يشرعا في أيّ عمل من أعمال المجاوزة. »
+الفصل 19 من القانون عدد 71 المؤرخ في 26 جويلية 1999 يتعلق بإصدار مجلّة الطرقات..
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>12</num> 
+<question>في هذا المرتفع</question> 
+  <fichier>photoQuestion/croisement/12.jpg</fichier>
+  <son>sonQuestion/croisement/12.mp3</son> 
+  <rep1>يالأولوية للسيارة الصاعدة</rep1>
+  <rep2>الأولوية للحافلة</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse>  إذا اتضحت صعوبة المقاطعة بالطرقات المنحدرة يجب على سائقي العربات النازلة فسح المجال لمرور العربات الصاعدة 
+ الفصل 16 من الأمر عدد 151 المؤرخ في 24 جانفي يتعلق بالقواعد العامة للجولان.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>13</num> 
+<question>أسير بالسرعة القصوى المسموح بها وقمت بمجاوزة هذه العربة</question> 
+  <fichier>photoQuestion/croisement/14.jpg</fichier>
+  <son>sonQuestion/croisement/14.mp3</son> 
+  <rep1>أعود إلى المسلك الأيمن بعد المجاوزة</rep1>
+  <rep2>يمكنني مواصلة استعمال هذا المسلك بعد المجاوزة</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse>يجب على كلّ سائق .....بعد المجاوزة
+أن ينبه غيره من مستعملي الطريق بنيّته في الرجوع إلى صفة الأصلي ما لم يواصل عملية المجاوزة لعربة أخرى أو يغيّر اتجاهه. أن لا يعود إلى صفة الأصلي إلاّ بعد التأكّد من إمكانية القيام بذلك بدون خطر
+الفصل 19 من القانون عدد 71 المؤرّخ في 26 جويلية 1999  والمتعلّق بإصدار مجلّة الطّرقات
+
+</reponse>
+</photo>
+
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>14</num> 
+<question>في هذا المنخفض</question> 
+  <fichier>photoQuestion/croisement/15.jpg</fichier>
+  <son>sonQuestion/croisement/15.mp3</son> 
+  <rep1>أسهل مرور الشاحنة الخفيفة</rep1>
+  <rep2>أنحاز إلى اليمين وأمر</rep2>
+  <rep3>أخفض من السرعة وأمر</rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+<reponse> إذا اتضحت صعوبة المقاطعة بالطرقات المنحدرة، يجب على سائقي العربات النازلة فسح المجال لمرور العربات الصاعدة 
+ الفصل 16 الفقرة الثالثة أمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلق بالقواعد العامة للجولان.
+
+</reponse>
+</photo>
+
+
+
+</photos>

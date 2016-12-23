@@ -1,0 +1,565 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>تمنع السياقة عندما تساوي أو تفوق نسبة الكحول في اللّتر الواحد من الدّم</question> 
+  <fichier>photoQuestion/reglementation/1.jpg</fichier>
+  <son>sonQuestion/reglementation/1.mp3</son> 
+  <rep1>0.4 غرام ً</rep1>
+  <rep2>0.5 غرام </rep2>
+  <rep3>0.5 غرام </rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>« يعتبر السّائق تحت تأثير حالة كحوليّة، عندما تثبت نتائج التحريات المجراة … وجود نسبة تساوي أو تفوق نصف غرام من الكحول الصافي في اللّتر الواحد من الدم 0.5 غ / ل. »
+ الفصل 6 أمر عدد 146 المؤرخ في 24 جانفي 2000 يتعلّق بالسياقة تحت تأثير حالة كحولية.
+</reponse>
+</photo>
+ 
+
+ <photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>عندما تضاء الأجهزة العاكسة للنور بأضواء الطريق ليلا ترى</question> 
+  <fichier>photoQuestion/reglementation/2.jpg</fichier>
+  <son>sonQuestion/reglementation/2.mp3</son> 
+  <rep1>على بعد 50 م</rep1>
+  <rep2>على بعد 100م.</rep2>
+  <rep3>على بعد 100 م. </rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>« يعتبر السّائق تحت تأثير حالة كحوليّة، عندما تثبت نتائج التحريات المجراة … وجود نسبة تساوي أو تفوق نصف غرام من الكحول الصافي في اللّتر الواحد من الدم 0.5 غ / ل. »
+ الفصل 6 أمر عدد 146 المؤرخ في 24 جانفي 2000 يتعلّق بالسياقة تحت تأثير حالة كحولية.
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>عند نزول أمطار غزيرة أستعمل</question> 
+  <fichier>photoQuestion/reglementation/3.jpg</fichier>
+  <son>sonQuestion/reglementation/3.mp3</son> 
+  <rep1>أضواء الطريق</rep1>
+  <rep2>أضواء الوضعيّة</rep2>
+  <rep3>أضواء المقاطعة </rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>عند نزول الأمطار بغزارة، يجب على السّائق إستعمال أضواء المقاطعة أو أضواء الضّباب إذا كانت العربة مجهّزة بها.
+« ويمكن عند إنخفاض الرؤية بصفة ملحوضة بسبب الأحوال الجوّية، تعويض أضواء التّلاقي بأضواء الضّباب إذا كانت العربة مجهّزة بها.»
+الفصل 27 أمر عدد 151 لسنة 2000 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامّة للجولان بالطرقات.
+</reponse>
+</photo>
+<photo>
+<num>4</num> 
+<question>يمكن استعمال جانب الوقوف الإضطراري </question> 
+  <fichier>photoQuestion/reglementation/4.jpg</fichier>
+  <son>sonQuestion/reglementation/4.mp3</son> 
+  <rep1>للإستراحة</rep1>
+  <rep2>للإجابة على مكالمة في الهاتف الجوّال.</rep2>
+  <rep3>في الحالات الإستعجاليّة</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>« يحجر على السائق القيام بالعمليّات التالية على الطرقات السيارة.
+الوقوف والتوقف على المعبّدات والحواشي ولاسيما على جوانب الوقوف الاضطراري إلاّ في حالات الضرورة القصوى... »
+الفصل 48 أمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامّة للجولان بالطرقات.
+</reponse>
+</photo>
+<photo>
+<num>5</num> 
+<question>يوضع هذه الملصقة على البلّور الخلفي للعربة</question> 
+  <fichier>photoQuestion/reglementation/5.jpg</fichier>
+  <son>sonQuestion/reglementation/5.mp3</son> 
+  <rep1>للا يؤثر على الرؤية.</rep1>
+  <rep2>غير قانوني</rep2>
+  <rep3>مسموح به للإشهار</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>« يجب على السّائق :
+ أن يتّخذ جميع الإحتياطات لكي يتفادى تعطيل حركته والحدّ من مجال رؤيته سواء بسبب عدد الركّاب أو بوضعيتهم أو بسبب الأشياء المنقولة أو بسبب وضع أشياء غير شفّافة على الزّجاج »
+الفصل 7 من القانون عدد 71 المؤرّخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات. 
+</reponse>
+</photo>
+<photo>
+<num>6</num> 
+<question>وضعيّتي صحيحة</question> 
+  <fichier>photoQuestion/reglementation/7.jpg</fichier>
+  <son>sonQuestion/reglementation/7.mp3</son> 
+  <rep1>لمواصلة السير إلى الأمام أو الانعطاف إلى اليمين</rep1>
+  <rep2>للدوران إلى اليسار</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« توجد الأسهم التوجيهية بوسط السبيل وتبيّن لمستعملي الطريق خاصّة بالقرب من المفترقات، إنه يجب عليهم إتباع الاتجاه والاتجاهات المبيّنة. »
+ الفصل 39 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+</reponse>
+</photo>
+<photo>
+<num>7</num> 
+<question>في هذه الوضعيّة يجب عليّ الانعطاف إلى اليسار</question> 
+  <fichier>photoQuestion/reglementation/8.jpg</fichier>
+  <son>sonQuestion/reglementation/8.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لأ</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« توجد الأسهم التوجيهية بوسط السبيل وتبيّن لمستعملي الطريق خاصّة بالقرب من المفترقات، إنه يجب عليهم إتباع الاتجاه والاتجاهات المبيّنة. »
+ الفصل 39 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق
+</reponse>
+</photo>
+ <photo>
+<num>8</num> 
+<question>المرايا العاكسة للرؤية الإجبارية</question> 
+  <fichier>photoQuestion/reglementation/9.jpg</fichier>
+  <son>sonQuestion/reglementation/9.mp3</son> 
+  <rep1>تعدّل بعد تعديل المقعد</rep1>
+  <rep2>تعدّل قبل كلّ شيء</rep2>
+  <rep3>يمكن تعديلها أثناء السير عند الضّرورة</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>في وضعه العادي من رؤية مستقرّة وواضحة. »
+بيداغوجيا تعليم سياقة العربات: مركز إتقان آلية السيّارات والنقل بأربانة 
+</reponse>
+</photo>
+ <photo>
+<num>9</num> 
+<question>أضواء الوضعيّة الخلفيّة للسيارات يكون لونها</question> 
+  <fichier>photoQuestion/reglementation/10.jpg</fichier>
+  <son>sonQuestion/reglementation/10.mp3</son> 
+  <rep1>تأصفر أو أحمر</rep1>
+  <rep2>أحمر</rep2>
+  <rep3>يأصفر أو برتقالي</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>في وضعه العادي من رؤية مستقرّة وواضحة. »
+بيداغوجيا تعليم سياقة العربات: مركز إتقان آلية السيّارات والنقل بأربانة 
+</reponse>
+</photo>
+
+ <photo>
+<num>10</num> 
+<question>حزام الأمان إجباري خارج المناطق البلديّة</question> 
+  <fichier>photoQuestion/reglementation/11.jpg</fichier>
+  <son>sonQuestion/reglementation/11.mp3</son> 
+  <rep1>للسائق وجميع مرافقيه</rep1>
+  <rep2>للسائق والمرافقين الأماميين</rep2>
+  <rep3>للسائق فقط</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« يكون استعمال حزام الأمان إجباريا بالطرقات السيارة وخارج المناطق البلديّة وذلك بالنسبة إلى السوّاق وإلى راكبي المقاعد الأمامية للعربات... وينصح باستعمال حزام الأمان بالنسبة إلى راكبي المقاعد الخلفيّة. »
+الفصل 82 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنيّة لتجهيز وتهيئة العربات. ( نقّح بالأمر عدد 751       المؤرخ في 13 أفريل 2000 )
+</reponse>
+</photo>
+<photo>
+<num>11</num> 
+<question>استعمال حزام الأمان مستوجب على السائق ومرافقيه الأماميين</question> 
+  <fichier>photoQuestion/reglementation/12.jpg</fichier>
+  <son>sonQuestion/reglementation/12.mp3</son> 
+  <rep1>داخل وخارج مواطن العمران</rep1>
+  <rep2>حين تجاوز 50 كلم / س</rep2>
+  <rep3>على الطرّقات السيّارة</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>« يكون استعمال حزام الأمان إجباريا بالطرقات السيارة وخارج المناطق البلديّة وذلك بالنسبة إلى السوّاق وإلى راكبي المقاعد الأمامية للعربات... وينصح باستعمال حزام الأمان بالنسبة إلى راكبي المقاعد الخلفيّة. »
+الفصل 82 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنيّة لتجهيز وتهيئة العربات. ( نقّح بالأمر عدد 751 المؤرخ في 13 أفريل 2000 )
+</reponse>
+</photo>
+
+
+<photo>
+<num>12</num> 
+<question>في هذا المنعرج</question> 
+  <fichier>photoQuestion/reglementation/13.jpg</fichier>
+  <son>sonQuestion/reglementation/13.mp3</son> 
+  <rep1>أخفّض من السرعة قبل المنعرج ثمّ أحافظ على سرعة معتدلة</rep1>
+  <rep2>أخفّض من السرعة وأنحاز إلى اليسار</rep2>
+  <rep3>أستعمل جهاز الفرملة الرئيسي بقوّة</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« يجب على كل سائق أن يخفّض من سرعته بصفة ملحوظة في الحالات التالية :
+... في المنعرجات والمنحدرات... »
+الفصل 3 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 المتعلّق بالقواعد العامّة للجولان
+</reponse>
+</photo>
+<photo>
+<num>13</num> 
+<question>يجب على الحمولة أن لا تتجاوز من الأمام مستوى</question> 
+  <fichier>photoQuestion/reglementation/14.jpg</fichier>
+  <son>sonQuestion/reglementation/14.mp3</son> 
+  <rep1>حجرة القيادة</rep1>
+  <rep2>مقدم العربة</rep2>
+  <rep3>المغزل الأمامي</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>« ... إذا كانت العربة أو مجموعة العربات مشحونة بالخشب على طبيعته أو بقطع متمادية الطول يجب أن لا تتجاوز الحمولة من الأمام وفي أي حال من الأحوال مقدّم العربة... »
+الفصل 24 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات. 
+</reponse>
+</photo>
+
+
+<photo>
+<num>14</num> 
+<question>في هذه الطريق وعندما تكون الإنارة مسترسلة أستعمل</question> 
+  <fichier>photoQuestion/reglementation/15.jpg</fichier>
+  <son>sonQuestion/reglementation/15.mp3</son> 
+  <rep1>أضواء الطريق</rep1>
+  <rep2>أضواء المقاطعة</rep2>
+  <rep3>أضواء الوضعيّة</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>« يجب استعمال أضواء التلاقي ليلا وكلّما اقتضت ظروف الرؤية ذلك في النهار في الحالات التالية :
+... إذا كانت إنارة الطريق مسترسلة وتسمح للسائق بالرؤية على مسافة كافية. »
+الفصل 27 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامة للجولان بالطرقات. 
+</reponse>
+</photo>
+
+<photo>
+<num>15</num> 
+<question>الإشارة الدّالة على التربص تكون على شكل قرص</question> 
+  <fichier>photoQuestion/reglementation/16.jpg</fichier>
+  <son>sonQuestion/reglementation/16.mp3</son> 
+  <rep1>أبيض اللّون وبأرقام سوداء</rep1>
+  <rep2>أبيض اللّون وبأرقام حمراء</rep2>
+  <rep3>أزرق اللّون وبأرقام بيضاء</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« يجب استعمال أضواء التلاقي ليلا وكلّما اقتضت ظروف الرؤية ذلك في النهار في الحالات التالية :
+... إذا كانت إنارة الطريق مسترسلة وتسمح للسائق بالرؤية على مسافة كافية. »
+الفصل 27 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامة للجولان بالطرقات. 
+</reponse>
+</photo>
+
+
+
+<photo>
+<num>16</num> 
+<question>يجب أن تجهّز كلّ عربة سيارة بـ</question> 
+  <fichier>photoQuestion/reglementation/17.jpg</fichier>
+  <son>sonQuestion/reglementation/17.mp3</son> 
+  <rep1>مثلث خطر</rep1>
+  <rep2>مثلثي خطر</rep2>
+  <rep3>بأضواء النجدة في حالة عدم وجود مثلّث خطر</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« يجب أن تجهّز السيّارات بمثلّثي خطر تعكس نورا أحمر أو أصفر عند إضائتهما بضوء آخر. »
+الفصل 156 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات. 
+</reponse>
+</photo>
+
+
+<photo>
+<num>17</num> 
+<question>رخصة سياقة صنف (ب ) تسمح بجرّ مجرورة</question> 
+  <fichier>photoQuestion/reglementation/18.jpg</fichier>
+  <son>sonQuestion/reglementation/18.mp3</son> 
+  <rep1>لا تتجاوز حمولتها 750 كلغ</rep1>
+  <rep2>لا يتجاوز وزنها وهي فارغة 750 كلغ</rep2>
+  <rep3>لا يتجاوز وزنها الجملي المرخّص فيه 750 كلغ</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>« الصنف ب: ... يمكن أن تقرن بسيارات هذا الصنف مجرورة:
+لا يتجاوز( و ج م ف) 750 كلغ .
+- أو يتجاوز( و ج م ف) 750 كلغ شريطة أن لا يتجاوز ( و ج ن م ف) للمجموعة 3500 كلغ ولا يتجاوز ( و ج م ف) للمجرورة وزن العربة الجارّة وهي فارغة. »
+الفصل 3 من الأمر عدد 142 المؤرخ في 24 جانفي 2000 يتعلّق بضبط أصناف رخص السياقة وبشروط تسليمها وصلوحيتها وتجديدها.
+</reponse>
+</photo>
+
+
+<photo>
+<num>18</num> 
+<question>أسير بالسرعة القصوى المسموح بها والطّريق شاغرة، أستعمل</question> 
+  <fichier>photoQuestion/reglementation/19.jpg</fichier>
+  <son>sonQuestion/reglementation/19.mp3</son> 
+  <rep1>المسلك الأيمن في سيري العادي</rep1>
+  <rep2>المسلك الأيسر في سيري العادي</rep2>
+  <rep3>حد المسلكين حسب اختياري</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>« يجب علىكلّ سائق في حالة الجولان العادي أن يسير بعربته قريبا من الحافة اليمني للمعبّد ولوكان الطّريق شاغرا... »
+الفصل عدد 9 من القانون عدد 71 المؤرّخ في 26 جويلية 1999 يتعلّق بإصدار مجلّة الطّرقات.
+</reponse>
+</photo>
+
+<photo>
+<num>19</num> 
+<question>في هذه الوضعيّة يجب </question> 
+  <fichier>photoQuestion/reglementation/20.jpg</fichier>
+  <son>sonQuestion/reglementation/20.mp3</son> 
+  <rep1>الدوران إلى اليمين في المفترق القادم</rep1>
+  <rep2>الإنحياز إلى اليمين وعدم المجاوزة</rep2>
+  <rep3>مجاوزة العربات من الجهة اليمنى</rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>«  تكون أسهم الإنزواء معقفة قليلا ويمكن أن ترسم بين الخطوط الطولية المتقطعة وتعني أن هذه الخطوط المتقطعة ستصبح متواصلة لذلك يجب الرجوع إلى اليمين وعدم المجاوزة لأن الخط سيصبح متواصلا. » 
+الفصل 38 أمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق..
+</reponse>
+</photo>
+
+<photo>
+<num>20</num> 
+<question>الشهادة الطبية إجباريّة </question> 
+  <fichier>photoQuestion/reglementation/21.jpg</fichier>
+  <son>sonQuestion/reglementation/21.mp3</son> 
+  <rep1>عند التّرشّح للحصول على رخصة السّياقة</rep1>
+  <rep2>للحصول على شهادة تسجيل</rep2>
+  <rep3></rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>«.. لا تسلّم رخص سياقة العربات بجميع أصنافها إلاّ بعد الإدلاء بشهادة طبية تثبت أن المعني بالأمر سليم من كل إعاقة بدنيّة اومرض يتنافي والحصول على رخصة السياقة أو تجديدها... »  
+</reponse>
+</photo>
+
+<photo>
+<num>21</num> 
+<question>استعمال حزام الأمان بالمناطق البلديّة </question> 
+  <fichier>photoQuestion/reglementation/22.jpg</fichier>
+  <son>sonQuestion/reglementation/22.mp3</son> 
+  <rep1>إجباري</rep1>
+  <rep2>إختياري</rep2>
+  <rep3></rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+« يكون استعمال حزام الأمان إجباريا بالطرقات السيارة وخارج المناطق البلديّة وذلك بالنسبة إلى السواق وإلى راكبي المقاعد الأمامية للعربات،... وينصح باستعمال حزام الأمان بالنسبة إلى راكبي المقاعد الخلفيّة. »
+الفصل 82 ( نقّح بالأمر عدد 751 المؤرخ في 13 أفريل 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات
+
+ 
+</reponse>
+</photo>
+
+
+<photo>
+<num>22</num> 
+<question>يوضع مثلثا الخطر خارج مواطن العمران على مسافة  </question> 
+  <fichier>photoQuestion/reglementation/23.jpg</fichier>
+  <son>sonQuestion/reglementation/23.mp3</son> 
+  <rep1>100م</rep1>
+  <rep2>50م</rep2>
+  <rep3>30م</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+« يكون استعمال حزام الأمان إجباريا بالطرقات السيارة وخارج المناطق البلديّة وذلك بالنسبة إلى السواق وإلى راكبي المقاعد الأمامية للعربات،... وينصح باستعمال حزام الأمان بالنسبة إلى راكبي المقاعد الخلفيّة. »
+الفصل 82 ( نقّح بالأمر عدد 751 المؤرخ في 13 أفريل 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات
+
+ 
+</reponse>
+</photo>
+
+
+<photo>
+<num>23</num> 
+<question>يوضع مثلثا الخطر على الطريق السيارة على مسافة  </question> 
+  <fichier>photoQuestion/reglementation/24.jpg</fichier>
+  <son>sonQuestion/reglementation/24.mp3</son> 
+  <rep1>30م</rep1>
+  <rep2>100م</rep2>
+  <rep3>150م</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>
+« ...يوضع المثلث من أمام ومن خلف العربة على مسافة 30 م على الطرقات و 100 م على الطرقات السيارة... » 
+الفصل 43 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامة للجولان بالطرقات
+ 
+</reponse>
+</photo>
+
+
+<photo>
+<num>24</num> 
+<question>شهادة التأمين </question> 
+   <fichier>photoQuestion/reglementation/25.jpg</fichier>
+  <son>sonQuestion/reglementation/25.mp3</son> 
+  <rep1>إجباريّة على كلّ العربات</rep1>
+  <rep2>إجباريّة على كلّ العربات</rep2>
+  <rep3>يمكن الإحتفاظ بها بالمنزل</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>
+«... يوضع المثلث من أمام ومن خلف العربة على مسافة 30 م على الطرقات و 100 م على الطرقات السيارة... » 
+الفصل 43 من الأمر عدد 151 المؤرخ في 24 جانفي 2000 يتعلّق بالقواعد العامة للجولان بالطرقات. 
+
+ 
+</reponse>
+</photo>
+
+
+
+
+<photo>
+<num>25</num> 
+<question>يعلن هذا الخط عن </question> 
+  <fichier>photoQuestion/reglementation/26.jpg</fichier>
+  <son>sonQuestion/reglementation/26.mp3</son> 
+  <rep1>بداية الخط المتواصل</rep1>
+  <rep2>نهاية الخط المتواصل</rep2>
+  <rep3>حافة المعبّد</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+« تنقسم الخطوط المتقطعةإلى ثلاثة أنواع:...
+ 2- خطوط حافة المعبّد أو تحديد سبل التخفيض من السرعة أو الإندماج أو دخول أو خروج من السّبل المخصّصة لبعض أصناف العربات: يساوي طول الخطوط المسافة بينها تقريبا. »
+الفصل 34  الفقرة 2 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+
+ 
+</reponse>
+</photo>
+<photo>
+<num>26</num> 
+<question>في هذه الوضعيّة يجب إحترام العلامة العموديّة </question> 
+ <fichier>photoQuestion/reglementation/27.jpg</fichier>
+  <son>sonQuestion/reglementation/27.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>
+« يبطل اشتغال الإشارات الضوئيّة بمكان معيّن، مفعول علامات الطريق المتعلّقة بالأولوية الموجودة على نفس السبيل... »
+الفصل 12 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+
+ 
+</reponse>
+</photo>
+<photo>
+<num>27</num> 
+<question>في هذه الوضعيّة يجب إحترام العلامة العموديّة </question> 
+  <fichier>photoQuestion/reglementation/28.jpg</fichier>
+  <son>sonQuestion/reglementation/28.mp3</son>  
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>
+« يبطل اشتغال الإشارات الضوئيّة بمكان معيّن، مفعول علامات الطريق المتعلّقة بالأولوية الموجودة على نفس السبيل... »
+الفصل 12 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+
+ 
+</reponse>
+</photo>
+
+<photo>
+<num>28</num> 
+<question>سائق هذه الشّاحنة الخفيفة يجب أن يكون متحصلا على رخصة سياقة صنف (ب) وأن لا يقل عمره عن ة </question> 
+  <fichier>photoQuestion/reglementation/29.jpg</fichier>
+  <son>sonQuestion/reglementation/29.mp3</son> 
+  <rep1>20سنة</rep1>
+  <rep2>18سنة</rep2>
+  <rep3>21سنة</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>
+« ... لا يجوز للمتحصّلين على رخص سياقة من صنف " ب " والّذين يكون عمرهم أقلّ من 20 سنة إلاّ سياقة السيارات الخاصّة الّتي لا يتجاوز عدد مقاعدها ستّة غير أنّه يمكنهم سياقة العربات الأخرى الّتي يخوّلها هذا الصنف بعد بلوغهم سنّ العشرين دون أي إجراء إضافيّ. » 
+الفصل 10 من الأمر عدد 142 مؤرخ في 24 جانفي 2000 يتعلّق بضبط أصناف رخص السياقة وبشروط تسليمها وصلوحيتها وتجديدها.
+
+ 
+</reponse>
+</photo>
+<photo>
+<num>29</num> 
+<question>تجهز هذه السيارة بـ </question> 
+    <fichier>photoQuestion/reglementation/30.jpg</fichier>
+  <son>sonQuestion/reglementation/30.mp3</son> 
+  <rep1>مرآتين عاكستين للرؤية من الجهة اليمنى واليسرى</rep1>
+  <rep2>مرآة عاكسة للرؤية من الجهة اليسرى</rep2>
+  <rep3>مرآة داخل العربة وأخرى من الجهة اليسرى</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+» يجب أن تكون السيارات الخاصة مجهزة بمرآة عاكسة للرؤية داخلية وأخرى خارجية موضوعة من الجهة اليسرى.«
+الفصل 40 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنية لتجهيز وتهيئة العربات. 
+
+</reponse>
+</photo>
+
+<photo>
+<num>30</num> 
+<question>يستعمل حزام الأمان بالطرقات السيارة وخارج المناطق البلديّة </question> 
+   <fichier>photoQuestion/reglementation/31.jpg</fichier>
+  <son>sonQuestion/reglementation/31.mp3</son> 
+  <rep1>لكلّ الركّاب</rep1>
+  <rep2>للسّائق فقط</rep2>
+  <rep3>للسّائق وراكبي المقاعد الأماميّة</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+« يكون استعمال حزام الأمان إجباريا بالطرقات السيارة وخارج المناطق البلديّة وذلك بالنسبة إلى السوّاق وإلى راكبي المقاعد الأمامية للعربات... وينصح باستعمال حزام الأمان بالنسبة إلى راكبي المقاعد الخلفيّة. »
+الفصل 82 من الأمر عدد 147 المؤرخ في 24 جانفي 2000 يضبط القواعد الفنيّة لتجهيز وتهيئة العربات. ( نقّح بالأمر عدد 751 لسنة 2000 المؤرخ في 13 أفريل 2000 )
+
+ 
+</reponse>
+</photo>
+
+
+<photo>
+<num>31</num> 
+<question>في محطّات الإستخلاص يكون المرور في الممر المشار إليه</question> 
+ <fichier>photoQuestion/reglementation/32.jpg</fichier>
+  <son>sonQuestion/reglementation/32.mp3</son>  
+  <rep1>بسهم أخضر</rep1>
+  <rep2>بسهم رفّاف</rep2>
+  <rep3>بعلامة حمراء</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+<reponse>
+« الضوء الأخضر يعني السّماح بتجاوز العلامة. »
+الفصل 5  من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق
+
+</reponse>
+</photo>
+
+
+<photo>
+<num>32</num> 
+<question>تلغي إشارة عون المرور</question> 
+   <fichier>photoQuestion/reglementation/33.jpg</fichier>
+  <son>sonQuestion/reglementation/33.mp3</son>  
+  <rep1>العلامات العمودية ورسوم الطريق فقطر</rep1>
+  <rep2>الإشارات الضوئيّة فقط</rep2>
+  <rep3>كل العلامات والإشارات</rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+<reponse>
+« تغلب إشارات الأعوان المكلّفين بتنظيم حركة المرور على القواعد المبيّنة بالإشارات الضوئيّة وعلامات الطريق ورسوم الطريق وكذلك قواعد الجولان. »
+الفصل عدد 4 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+
+</reponse>
+</photo>
+
+
+<photo>
+<num>33</num> 
+<question>في حالة الجولان العادي وفي طريق ذي اتجاه واحد</question> 
+   <fichier>photoQuestion/reglementation/34.jpg</fichier>
+  <son>sonQuestion/reglementation/34.mp3</son>  
+  <rep1>يمكنني مواصلة السير في المسلك الأيسر</rep1>
+  <rep2>يجب الرجوع إلى المسلك الأيمن</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>
+« يجب على كلّ سائق عربة في حالة الجولان العادي أن يسير بعربته قريبا من الحافة اليمني للمعبّد ولو كان الطّريق شاغرا وبقدر ما تسمح به حالة المعبّد... »
+الفصل 9 من القانون عدد 71 المؤرّخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطّرقات. 
+
+</reponse>
+</photo>
+
+<photo>
+<num>34</num> 
+<question>في هذه الوضعية يجب التّوقّف ثمّ فسح المجال</question> 
+   <fichier>photoQuestion/reglementation/35.jpg</fichier>
+  <son>sonQuestion/reglementation/35.mp3</son> 
+  <rep1>على مستوى العلامة</rep1>
+  <rep2>قبل العلامة</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+<reponse>
+« ...الخطوط العرضيّة المتواصلة تبيّن المكان الذّي يجب فيه على السّائق إحترام مدّة توقّف وفسح المجال للعربات التّي لها أولويّة المرور... »
+الفصل عدد 36 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 يتعلّق بضبط إشارات وعلامات الطريق.
+
+</reponse>
+</photo>
+
+
+</photos>

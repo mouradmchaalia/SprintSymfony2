@@ -1,0 +1,355 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+ <duree>40</duree>
+  <num>1</num> 
+<question>للسير إلى الأمام </question> 
+  <fichier>photoQuestion/priorite/1.jpg</fichier>
+  <son>sonQuestion/priorite/1.mp3</son> 
+  <rep1>أمرّ في المرتبة الأولى</rep1>
+  <rep2> أمرّ في المرتبة الثّانية</rep2>
+  <rep3> أترك الأولويّة للسيّارة الخضراء والحافلة</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>  « مفترق طرقات تطبق به الأولوية على اليمين. » 
+الفصل 21 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق.
+</reponse>
+</photo>
+   <photo>
+ <duree>40</duree>
+  <num>2</num> 
+<question>في هذا المفترق</question> 
+  <fichier>photoQuestion/priorite/2.jpg</fichier>
+  <son>sonQuestion/priorite/2.mp3</son> 
+  <rep1>السيارة الخضراء لها أولوية المرور</rep1>
+  <rep2>يجب على السيارة الخضراء أن تفسح لي المجال</rep2>
+  <rep3>أفسح المجال عند مواصلة سيري إلى الأمام</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. » 
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات. 
+</reponse>
+</photo>
+ 
+
+ <photo>
+ <duree>40</duree>
+  <num>3</num> 
+<question>هذه العلامة تشير إلى وجوب</question> 
+  <fichier>photoQuestion/priorite/3.jpg</fichier>
+  <son>sonQuestion/priorite/3.mp3</son> 
+  <rep1>فسح المجال على مستوى العلامة</rep1>
+  <rep2>الوقوف على بعد 100 م</rep2>
+  <rep3>فسح المجال بعد 100 م.</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« إعلان عن علامة فسح المجال على المسافة التقريبية المبيّنة. »
+أمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق 
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>4</num> 
+<question>في هذا المفترق بدون علامات</question> 
+  <fichier>photoQuestion/priorite/4.jpg</fichier>
+  <son>sonQuestion/priorite/4.mp3</son> 
+  <rep1>يجب فسح المجال للعربات القادمة من اليسار</rep1>
+  <rep2>يجب فسح المجال للحافلة داخل مواطن العمران</rep2>
+  <rep3>يمكنني المرور قبل الحافلة</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكان قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. » 
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات. 
+ 
+</reponse>
+</photo>
+
+ <photo>
+ <duree>40</duree>
+  <num>5</num> 
+<question>أفسح المجال لهذه العربة</question> 
+  <fichier>photoQuestion/priorite/5.jpg</fichier>
+  <son>sonQuestion/priorite/5.mp3</son> 
+  <rep1>في كل الحالات</rep1>
+  <rep2>يحين تستعمل منبهاتها الخاصّة</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« ... يجب على كل سائق فسح مجال المرور بإخلاء المعبّد أو التوقف عند الاقتضاء لتسهيل مرور العربات ذات الأولويّة وعربات التدخل السريع الّتي تعلن عن اقترابها باستعمال إشارات خاصّة.»
+الفصل 30 قانون عدد 71 المؤرخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+
+
+
+ <photo>
+ <duree>40</duree>
+  <num>6</num> 
+<question>الأضواء الثلاثية لا تشتغل</question> 
+  <fichier>photoQuestion/priorite/6.jpg</fichier>
+  <son>sonQuestion/priorite/6.mp3</son> 
+  <rep1>يجب أن أتوقف وأفسح المجال للمترو</rep1>
+  <rep2>يمكنني مواصلة السير بحذر</rep2>
+  <rep3>أفعل ما تقوم به السيارة التي أمامي</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« يجب على مستعملي الطريق أن يحترموا في جميع الحالات الإشارات القانونية وهي حسب الأولوية كما يلي :
+1 - إشارات الأعوان.    2 - الإشارات الضوئيّة.    3 - علامات الطريق الأخرى.    
+في حالة وجود الضوء البرتقالي الرفاف تطبق القواعد العامّة للجولان... » 
+الفصل 45 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات.
+« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. »
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>7</num> 
+<question>سوف ينتقل الضوء من البرتقالي إلى الأحمر</question> 
+  <fichier>photoQuestion/priorite/7.jpg</fichier>
+  <son>sonQuestion/priorite/7.mp3</son> 
+  <rep1>سوف ينتقل الضوء من البرتقالي إلى الأحمر</rep1>
+  <rep2>أمرّ بسرعة قبل أن يصبح الضوء أحمر</rep2>
+  <rep3>أخفض من السرعة وأتوقف</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>أخفض من السرعة وأتوقف	
+« الضوء البرتقالي الثابت: يعني ممنوع تجاوز خط التوقف... إلاّ بشرط عدم وضع بقيّة المستعملين في خطر. ».
+ الفصل 05 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>8</num> 
+<question>في المفترق القادم</question> 
+  <fichier>photoQuestion/priorite/8.jpg</fichier>
+  <son>sonQuestion/priorite/8.mp3</son> 
+  <rep1>يجب عليّ فسح المجال للعربات القادمة من اليمين</rep1>
+  <rep2>يمكنني المرور دون فسح المجال</rep2>
+  <rep3>يجب عليّ فسح المجال للعربات القادمة من الجانبين</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« تقاطع مع طريق يجب على مستعمليه فسح المجال. »
+الفصل 13 و 21 من الأمر عدد 150 المؤرخ في 24 جويلية 2000 والمتعلّق بضبط إشارات وعلامات الطريق.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>9</num> 
+<question>في هذه الوضعية</question> 
+  <fichier>photoQuestion/priorite/9.jpg</fichier>
+  <son>sonQuestion/priorite/9.mp3</son> 
+  <rep1>أترك الأولوية للعربة الرّمادية</rep1>
+  <rep2>العربة الرّمادية تترك لي الأولوية</rep2>
+  <rep3>أنبّه بالإشارات الصوتية والضوئية ثم أمر</rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« علامة فسح المجال. »
+الفصل 21: من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق.
+
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>10</num> 
+<question>هذه الإشارة تجبرني على</question> 
+  <fichier>photoQuestion/priorite/10.jpg</fichier>
+  <son>sonQuestion/priorite/10.mp3</son> 
+  <rep1>مواصلة السير مع الحذر</rep1>
+  <rep2>الدوران إجباري إلى اليمين</rep2>
+  <rep3>الوقوف</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« علامة فسح المجال. »
+الفصل 21: من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>11</num> 
+<question>الضوء البرتقالي رفاف</question> 
+  <fichier>photoQuestion/priorite/11.jpg</fichier>
+  <son>sonQuestion/priorite/11.mp3</son> 
+  <rep1>أمر قبل المترو الخفيف</rep1>
+  <rep2>أمر بعد المترو الخفيف</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« يجب على مستعملي الطريق أن يحترموا في جميع الحالات الإشارات القانونية وهي حسب الأولوية كما يلي :
+-	إشارات الأعوان...
+-	الإشارات الضوئيّة...
+-	علامات الطريق الأخرى...
+-	في حالة وجود الضوء البرتقالي الرفاف تطبق القواعد العامّة للجولان... » 
+الفصل 45 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>12</num> 
+<question>لمواصلة السير إلى الأمام أمرّ</question> 
+  <fichier>photoQuestion/priorite/12.jpg</fichier>
+  <son>sonQuestion/priorite/12.mp3</son> 
+  <rep1>في المرتبة الأولى</rep1>
+  <rep2>في المرتبة الثانية</rep2>
+  <rep3>في المرتبة الثالثة</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. »
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات.  
+
+</reponse>
+</photo>
+
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>13</num> 
+<question>للدّوران لليسار أمرّ</question> 
+  <fichier>photoQuestion/priorite/13.jpg</fichier>
+  <son>sonQuestion/priorite/13.mp3</son> 
+  <rep1>قبل السيّارة الخضراء</rep1>
+  <rep2>بعد السيّارة الخضراء</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« علامة فسح المجال. ».
+الفصل 21 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق.
+
+</reponse>
+</photo>
+
+
+
+<photo>
+ <duree>40</duree>
+  <num>14</num> 
+<question>تستعمل هذه العربة منبّهاتها الخاصّة</question> 
+  <fichier>photoQuestion/priorite/14.jpg</fichier>
+  <son>sonQuestion/priorite/14.mp3</son> 
+  <rep1>يجب أن أفسح لها المجال</rep1>
+  <rep2>أفسح لها المجال أن وجدت على يميني</rep2>
+  <rep3>أزيد في السرعة وأمرّ</rep3>
+  <bonrep>A</bonrep>
+<type>arret</type>
+<reponse>« ... يجب على كل سائق فسح مجال المرور بإخلاء المعبّد أو التوقف عند الاقتضاء لتسهيل مرور العربات ذات الأولويّة وعربات التدخل السريع الّتي تعلن عن اقترابها باستعمال إشارات خاصّة.»
+الفصل 30 قانون عدد 71 المؤرخ في 26 جويلية 1999 والمتعلّق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+
+
+<photo>
+ <duree>40</duree>
+  <num>15</num> 
+<question>في هذا المفترق والضوء البرتقالي رفّاف</question> 
+  <fichier>photoQuestion/priorite/15.jpg</fichier>
+  <son>sonQuestion/priorite/15.mp3</son> 
+  <rep1>أفسح المجال لليمين وأمر</rep1>
+  <rep2>أفسح المجال لليسار ولليمين وأمرّ</rep2>
+  <rep3>أمرّ بدون فسح المجال</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« يجب على مستعملي الطريق أن يحترموا في جميع الحالات الإشارات القانونية وهي حسب الأولوية كما يلي:
+-	إشارات الأعوان - الإشارات الضوئية - علامات الطريق الأخرى
+-	في حالة وجود الضوء البرتقالي الرفّاف تطبق القواعد العامّة للجولان. »
+الفصل 45 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات. 
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>16</num> 
+<question>أمرّ بعد السيارة الخضراء</question> 
+  <fichier>photoQuestion/priorite/16.jpg</fichier>
+  <son>sonQuestion/priorite/16.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. »
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>17</num> 
+<question>الضوء البرتقالي رفّاف</question> 
+  <fichier>photoQuestion/priorite/17.jpg</fichier>
+  <son>sonQuestion/priorite/17.mp3</son> 
+  <rep1>يجب فسح المجال لليمين</rep1>
+  <rep2>يجب فسح المجال لليسار واليمين</rep2>
+  <rep3>أتمتع بالأولوية</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« يجب على مستعملي الطريق أن يحترموا في جميع الحالات الإشارات القانونية وهي حسب الأولوية كما يلي :
+- إشارات الأعوان الإشارات الضوئية - علامات الطريق الأخرى - في حالة وجود الضوء البرتقالي الرفّاف تطبق القواعد العامّة للجولان. » 
+الفصل 45 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+
+<photo>
+ <duree>40</duree>
+  <num>18</num> 
+<question>للانعطاف إلى اليسار</question> 
+  <fichier>photoQuestion/priorite/18.jpg</fichier>
+  <son>sonQuestion/priorite/18.mp3</son> 
+  <rep1>أمرّ قبل السيارة البيضاء</rep1>
+  <rep2>أمرّ بعد السيارة البيضاء</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+<reponse>« علامة طريق ذات أولويّة.
+يمكن أن تكمّل علامات الأولوية بلافتة لبيان رسم السبيل الّذي يتمتّع فيه السواق بأولوية المرور بالمفترق القادم. »
+الفصل 19 من الأمر عدد 150 المؤرخ في 24 جانفي 2000 والمتعلّق بضبط إشارات وعلامات الطريق
+ات.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>19</num> 
+<question>للسير إلى الأمام</question> 
+  <fichier>photoQuestion/priorite/19.jpg</fichier>
+  <son>sonQuestion/priorite/19.mp3</son> 
+  <rep1>أمرّ قبل السيارة الخضراء</rep1>
+  <rep2>أمرّ بعد السيارة السوداء</rep2>
+  <rep3>أمرّ قبل السيارة السوداء</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. »
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+<photo>
+ <duree>40</duree>
+  <num>20</num> 
+<question>للسير إلى الأمام</question> 
+  <fichier>photoQuestion/priorite/20.jpg</fichier>
+  <son>sonQuestion/priorite/20.mp3</son> 
+  <rep1>الأولويّة للسيّارة القادمة من اليمين</rep1>
+  <rep2>الأولويّة للدرّاجة</rep2>
+  <rep3>أيقع المرور بالتّراضي</rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+<reponse>« إذا اقترب سائقان من تقاطع طرقات وكانا قادمين من طريقين مختلفين فيجب على السائق القادم من اليسار أن يفسح المجال للسائق الآخر. »
+الفصل 28 من قانون عدد 71 المؤرخ في 26 جانفي 1999 والمتعلّق بإصدار مجلّة الطرقات.
+
+</reponse>
+</photo>
+</photos>

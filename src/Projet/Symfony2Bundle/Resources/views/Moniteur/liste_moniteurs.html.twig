@@ -1,0 +1,91 @@
+{% extends 'ProjetSymfony2Bundle::layout.html.twig' %}
+
+
+
+{% block title %}Liste Moniteur{% endblock  %}
+{% block section1 %}<span class="glyphicon glyphicon-th-list" aria-hidden="true"> </span> Liste Moniteur    {% endblock  %}
+
+
+
+{% block content %}
+
+
+
+
+    <form method="POST" action="">
+
+        <input type="text"  name="search" width="800" placeholder=" Tapez un nom"/>
+
+        <input type="submit"  value="rechercher" />
+
+
+    </form>
+
+    <br>
+    <br>
+
+
+
+
+
+
+    <table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Nom Moniteur</th>
+        <th>Prenom Moniteur</th>
+        <th>Date de naissance</th>
+        <th>Email Moniteur</th>
+        <th>Adresse</th>
+        <th>Numèro de téléphone</th>
+        <th>Action</th>
+
+
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, moniteur in moniteurs %}
+        <tr>
+
+
+
+
+            <td>{{ moniteur.nom }}</td>
+            <td>{{ moniteur.prenom }}</td>
+            <td>{{ moniteur.dateDeNaissance }}</td>
+            <td>{{ moniteur.email }}</td>
+            <td>{{ moniteur.adresse }}</td>
+            <td>{{ moniteur.numTel }}</td>
+            <td><a href="{{path("projet_symfony2_supprimer_moniteur",{'id':moniteur.idMoniteur}) }}"><span class="label label-danger" >Supprimer</span></a></td>
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+
+
+<div class="col-lg-3 col-xs-6 active">
+     <a href="/PISYMFONY/web/app_dev.php/permik/ajouter_moniteur"><button class="btn btn-block btn-primary btn-flat">Ajouter un moniteur</button></a>
+     
+
+    
+</div>
+
+{% endblock  %}

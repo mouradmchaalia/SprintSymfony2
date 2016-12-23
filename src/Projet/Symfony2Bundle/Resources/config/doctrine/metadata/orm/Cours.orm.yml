@@ -1,0 +1,21 @@
+Cours:
+    type: entity
+    table: cours
+    id:
+        idCours:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_cours
+            generator:
+                strategy: IDENTITY
+    fields:
+        theme:
+            type: string
+            nullable: false
+            length: 20
+            fixed: false
+            comment: ''
+    lifecycleCallbacks: {  }

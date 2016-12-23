@@ -1,0 +1,103 @@
+projet_symfony2_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ProjetSymfony2Bundle:Default:index }
+projet_symfony2_homepagemap:
+    path:     /map
+    defaults: { _controller: ProjetSymfony2Bundle:Default:index }
+projet_symfony2_homepagemape:
+    path:     /map1
+    defaults: { _controller: ProjetSymfony2Bundle:Default:index2 }    
+projet_symfony2_affichage_candidat:
+    path:     /liste_candidats
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:list }   
+projet_symfony2_supprimer_candidat:
+    path:     /supprimer_candidats/{id}
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:delete }   
+projet_symfony2_ajouter_candidat:
+    path:     /ajouter_candidat
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:ajout }   
+    
+projet_symfony2_affichage_moniteur:
+    path:     /liste_moniteurs
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:list }   
+projet_symfony2_supprimer_moniteur:
+    path:     /supprimer_moniteurs/{id}
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:delete }   
+projet_symfony2_ajouter_moniteur:
+    path:     /ajouter_moniteur
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:ajout }    
+
+projet_symfony2_affichage_responsable_auto_ecole:
+    path:     /liste_responsables
+    defaults: { _controller: ProjetSymfony2Bundle:ResponsableAutoEcole:list }   
+projet_symfony2_supprimer_responsable_auto_ecole:
+    path:     /supprimer_responsable/{id}
+    defaults: { _controller: ProjetSymfony2Bundle:ResponsableAutoEcole:delete }   
+projet_symfony2_ajouter_responsable_auto_ecole:
+    path:     /ajouter_responsable
+    defaults: { _controller: ProjetSymfony2Bundle:ResponsableAutoEcole:ajout }
+    
+projet_symfony2_tableau_de_bord:
+    path:     /tableau_de_bord
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:infCandidat }    
+
+_graphePie:
+    path:     /pie
+    defaults: { _controller: ProjetSymfony2Bundle:Graphe:chartPie }   
+    
+stat_Candidat:
+    path:     /countCandidat
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:infCandidat }  
+    
+stat_Moniteur:
+    path:     /countMoniteur
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:infMoniteur }  
+    
+stat_Responsable:
+    path:     /countResponsable
+    defaults: { _controller: ProjetSymfony2Bundle:ResponsableAutoEcole:infResponsableAutoEcole }     
+    
+projet_symfony2_affichage_rdv:
+    path:     /liste_rdvs
+    defaults: { _controller: ProjetSymfony2Bundle:Rdv:list }      
+
+projet_symfony2_home:
+    path:     /home
+    defaults: { _controller: ProjetSymfony2Bundle:Home:home } 
+    
+  
+    
+homeCan:
+    pattern: /homeCandidat
+    defaults: { _controller: ProjetSymfony2Bundle:Rdv:listRdv }
+    
+homeMon:
+    pattern: /homeMoniteur
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:homeMon }
+    
+homeRes:
+    pattern: /homeResponsable
+    defaults: { _controller: ProjetSymfony2Bundle:ResponsableAutoEcole:homeRes }    
+    
+projet_symfony2_supprimer_rdv:
+    path:     /supprimer_rdvs/{id}
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:deleteRdv }
+    
+projet_symfony2_ajouter_rdv:
+    path:     /ajouter_rdvs
+    defaults: { _controller: ProjetSymfony2Bundle:Moniteur:AjoutRdv }
+    
+    
+projet_symfony2_Pdf:
+    path:     /pdf
+    defaults: { _controller: ProjetSymfony2Bundle:Candidat:indexpdf }    
+
+auth:
+    path:     /auth
+    defaults: { _controller: ProjetSymfony2Bundle:Auth:lockAd }
+        
+    
+auth2:
+    path:     /auth2
+    defaults: { _controller: ProjetSymfony2Bundle:Auth:lockAd2 }
+     

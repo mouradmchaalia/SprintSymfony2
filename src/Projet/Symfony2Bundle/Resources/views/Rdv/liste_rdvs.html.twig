@@ -1,0 +1,60 @@
+{% extends 'ProjetSymfony2Bundle::layout.html.twig' %}
+
+
+
+{% block title %}Liste Rdv{% endblock  %}
+{% block section1 %}<span class="glyphicon glyphicon-th-list" aria-hidden="true"> </span> Liste Rdv    {% endblock  %}
+
+
+
+{% block content %}
+
+    
+    <table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Lieu du RDV</th>
+        <th>Date du RDV</th>
+        <th>Nombre d'heure</th>
+        
+
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, rdv in rdvs %}
+        <tr>
+
+
+
+
+            <td>{{ rdv.lieu }}</td>
+            <td>{{ rdv.date }}</td>
+            <td>{{ rdv.nbreHeure }}</td>
+            
+            
+            
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+ 
+
+{% endblock  %}

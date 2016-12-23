@@ -1,0 +1,55 @@
+{% extends "ProjetSymfony2Bundle::layout3.html.twig" %}
+
+{% block saif %}
+
+</form>
+<center>
+    <h2>La liste des Rendez-vous</h2><br>
+<table  width="100%" class="table table-striped">
+
+        <tr>
+        <thead>
+
+
+        <th>Lieu du RDV</th>
+        <th>Date du RDV</th>
+        <th>Nombre d'heure</th>
+        
+
+
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+
+
+    {% for key, rdv in rdvs %}
+        <tr>
+
+
+
+
+            <td>{{ rdv.lieu }}</td>
+            <td>{{ rdv.date }}</td>
+            <td>{{ rdv.nbreHeure }}</td>
+            
+            
+            
+
+
+
+        </tr>
+
+    <tbody>
+    {% endfor %}    
+
+</table>
+{# ... #}
+
+{# ... #}
+ 
+</center>
+       {% endblock %}

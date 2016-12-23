@@ -1,0 +1,44 @@
+RdvTemp:
+    type: entity
+    table: rdv_temp
+    id:
+        idRdvTemp:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_rdv_temp
+            generator:
+                strategy: IDENTITY
+    fields:
+        date:
+            type: string
+            nullable: false
+            length: 50
+            fixed: false
+            comment: ''
+        nbreHeure:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: nbre_heure
+        lieu:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+        idCandidat:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_candidat
+        idRdv:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            column: id_rdv
+    lifecycleCallbacks: {  }

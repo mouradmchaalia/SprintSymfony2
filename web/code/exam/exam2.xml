@@ -1,0 +1,367 @@
+﻿<?xml version="1.0"?>
+ <photos>
+ <photo>
+<num>1</num> 
+<duree>25</duree>
+<question>يوضع مثلثا الخطر على الطريق السيارة على مسافة  </question> 
+  <fichier>photoQuestion/reglementation/24.jpg</fichier>
+  <son>sonQuestion/reglementation/24.mp3</son> 
+  <rep1>م 30</rep1>
+  <rep2>م 100</rep2>
+  <rep3>م 150</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+<num>2</num> 
+<duree>29</duree>
+<question>شهادة التأمين </question> 
+   <fichier>photoQuestion/reglementation/25.jpg</fichier>
+  <son>sonQuestion/reglementation/25.mp3</son> 
+  <rep1> اجبارية على كل العربات</rep1>
+  <rep2>اجبارية على كل العربات</rep2>
+  <rep3>يمكن الإحتفاظ بها بالمنزل</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+<num>3</num> 
+<duree>25</duree>
+<question>يعلن هذا الخط عن </question> 
+  <fichier>photoQuestion/reglementation/26.jpg</fichier>
+  <son>sonQuestion/reglementation/26.mp3</son> 
+  <rep1>بداية الخط المتواصل</rep1>
+  <rep2>نهاية الخط المتواصل</rep2>
+  <rep3> حافة المعبد </rep3>
+  <bonrep>C</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>29</duree>
+  <num>4</num> 
+<question>هذه العلامة تعني </question> 
+  <fichier>photoQuestion/signalisation/15.jpg</fichier>
+  <son>sonQuestion/signalisation/15.mp3</son> 
+  <rep1>مسلك خاص بالحافلات</rep1>
+  <rep2> محطة حافلات </rep2>
+  <rep3>ممر ممنوع على الحافلات</rep3>
+  <bonrep>B</bonrep>
+<type>signalisation</type>
+</photo>
+<photo>
+ <duree>32</duree>
+  <num>5</num> 
+<question>هذه العلامة تشير إلى </question> 
+  <fichier>photoQuestion/signalisation/16.jpg</fichier>
+  <son>sonQuestion/signalisation/16.mp3</son> 
+  <rep1>وجود رياح دائرية</rep1>
+  <rep2>مفترق ذو اتجاه دوراني</rep2>
+  <rep3>وجود منعرجات خطيرة</rep3>
+  <bonrep>B</bonrep>
+<type>signalisation</type>
+</photo>
+<photo>
+ <duree>38</duree>
+  <num>6</num> 
+<question>اول عمل يجب القيام به عند وقوع حادث هو</question> 
+  <fichier>photoQuestion/secourisme/7.jpg</fichier>
+  <son>sonQuestion/secourisme/7.mp3</son> 
+  <rep1>اسعاف المصابين</rep1>
+  <rep2>حماية مكان الحادث</rep2>
+  <rep3>اعلام الاسعافات المختصة</rep3>
+  <bonrep>B</bonrep>
+<type>secourisme</type>
+
+</photo>
+<photo>
+<num>7</num> 
+<duree>16</duree>
+<question> في هذه الوضعية يجب إحترام العلامة العمودية </question> 
+ <fichier>photoQuestion/reglementation/27.jpg</fichier>
+  <son>sonQuestion/reglementation/27.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>30</duree>
+  <num>8</num> 
+<question>عند اضافة سائل مساح البلور نستعمل </question> 
+  <fichier>photoQuestion/mecanique/8.jpg</fichier>
+  <son>sonQuestion/mecanique/8.mp3</son> 
+  <rep1> ماء الحنفية </rep1>
+  <rep2> سائل خاص </rep2>
+  <rep3> سائل حامض </rep3>
+  <bonrep>B</bonrep>
+<type>mecanique</type>
+</photo>
+<photo>
+ <duree>51</duree>
+  <num>9</num> 
+<question>	الرجوع على الأعقاب في طريق سيارة يعرض السائق </question> 
+  <fichier>photoQuestion/infraction/3.jpg</fichier>
+  <son>sonQuestion/infraction/3.mp3</son> 
+  <rep1>لعقوبة بالسجن لمدة أقصاها شهر</rep1>
+  <rep2>لسحب رخصة السياقة لمدة أقصاها ستة أشهر</rep2>
+  <rep3>لعقوبة مالية أقصاها مائتان دينار</rep3>
+  <bonrep>B</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>10</num> 
+<question> مسافة الأمان الواجب تركها بين العربات مرتبطة </question> 
+  <fichier>photoQuestion/vitesse/5.jpg</fichier>
+  <son>sonQuestion/vitesse/5.mp3</son> 
+  <rep1>بالحالة البد نية للسائق	</rep1>
+  <rep2>بحالة المعبد </rep2>
+  <rep3> بحالة الأطواق المطاطية</rep3>
+  <bonrep>A</bonrep>
+<type>vitesse</type>
+</photo>
+<photo>
+  <duree>34</duree>
+  <num>11</num> 
+<question>بعد هذه العلامة يمكنني الوقوف </question>
+  <fichier>photoQuestion/arret/7.jpg</fichier>
+  <son>sonQuestion/arret/7.mp3</son>
+  <rep1>على الجانب الايسر فقط </rep1>
+  <rep2>على جانب الأيمن فقط</rep2>
+  <rep3>اعلى جانبي الطريق </rep3>
+  <bonrep>C</bonrep>
+<type>arret</type>
+  </photo>
+<photo>
+ <duree>30</duree>
+  <num>12</num> 
+<question> في الطرقات السيارة السرعة محددة بـ</question> 
+  <fichier>photoQuestion/vitesse/1.jpg</fichier>
+  <son>sonQuestion/vitesse/1.mp3</son> 
+  <rep1>90 كلم/س</rep1>
+  <rep2>100 كلم/س </rep2>
+  <rep3>110 كلم/س</rep3>
+  <bonrep>C</bonrep>
+<type>vitesse</type>
+</photo>
+ <photo>
+ <duree>34</duree>
+  <num>13</num> 
+<question>تمنع السياقة عندما تساوي أو تفوق نسبة الكحول في اللتر الواحد من الدم</question> 
+  <fichier>photoQuestion/reglementation/1.jpg</fichier>
+  <son>sonQuestion/reglementation/1.mp3</son> 
+  <rep1>  غرام 0.4</rep1>
+  <rep2> غرام 0.5 </rep2>
+  <rep3> غرام 0.6 </rep3>
+  <bonrep>B</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>32</duree>
+  <num>14</num> 
+<question>يمكنني مجاوزة هذه العربة البطيئة</question> 
+  <fichier>photoQuestion/croisement/10.jpg</fichier>
+  <son>sonQuestion/croisement/10.mp3</son> 
+  <rep1>أشغل أضواء الطريق</rep1>
+  <rep2>أشغل أضواء المقاطعة</rep2>
+  <rep3>يجب علي التوقف</rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>15</num> 
+<question>يمنع الجولان بهذه الطريق على العربات الحاملة لكمية معينة  </question> 
+  <fichier>photoQuestion/tmd/2.jpg</fichier>
+  <son>sonQuestion/tmd/2.mp3</son> 
+  <rep1>يمكنها تلويث المياه</rep1>
+  <rep2>سريعة الالتهاب </rep2>
+  <rep3>قابلة للانفجار</rep3>
+  <bonrep>A</bonrep>
+<type>tmd</type>
+</photo>
+<photo>
+  <duree>17</duree>
+  <num>16</num> 
+<question>بوقوف العربة بهذا المكان</question>
+  <fichier>photoQuestion/arret/8.jpg</fichier>
+  <son>sonQuestion/arret/8.mp3</son>
+  <rep1>مسموح به</rep1>
+  <rep2>ممنوع</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>arret</type>
+  </photo>
+<photo>
+<num>17</num> 
+<duree>40</duree>
+<question>سائق هذه الشّاحنة الخفيفة يجب أن يكون متحصلا على رخصة سياقة صنف ب وأن لا يقل عمره عن </question> 
+  <fichier>photoQuestion/reglementation/29.jpg</fichier>
+  <son>sonQuestion/reglementation/29.mp3</son> 
+  <rep1>سنة 20</rep1>
+  <rep2>سنة 18</rep2>
+  <rep3>سنة 21</rep3>
+  <bonrep>A</bonrep>
+<type>reglementation</type>
+</photo>
+<photo>
+ <duree>44</duree>
+  <num>18</num> 
+<question>تشتعل هذه الإشارة عندما </question> 
+  <fichier>photoQuestion/mecanique/7.jpg</fichier>
+  <son>sonQuestion/mecanique/7.mp3</son> 
+  <rep1>تكون درجة حرارة المحرك مرتفعة جدا</rep1>
+  <rep2>تكون فرامل اليد مضغوط عليها </rep2>
+  <rep3>يكون مستوى ماء البطارية منخفض</rep3>
+  <bonrep>A</bonrep>
+<type>mecanique</type>
+</photo>
+<photo>
+ <duree>37</duree>
+  <num>19</num> 
+<question>داخل مواطن العمران عند السير بسرعة 60 كلم/س أرتكب</question> 
+  <fichier>photoQuestion/infraction/5.jpg</fichier>
+  <son>sonQuestion/infraction/5.mp3</son> 
+  <rep1>مخالفة خطيرة</rep1>
+  <rep2>جنحة</rep2>
+  <rep3>مخالفة عادية</rep3>
+  <bonrep>A</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+ <duree>11</duree>
+  <num>20</num> 
+<question>أمر بعد السيارة الخضراء</question> 
+  <fichier>photoQuestion/priorite/16.jpg</fichier>
+  <son>sonQuestion/priorite/16.mp3</son> 
+  <rep1>نعم</rep1>
+  <rep2>لا</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>priorite</type>
+</photo>
+<photo>
+ <duree>33</duree>
+  <num>21</num> 
+<question>الضغط اليدوي المباشر على مكان النزيف يدوم</question> 
+  <fichier>photoQuestion/secourisme/9.jpg</fichier>
+  <son>sonQuestion/secourisme/9.mp3</son> 
+  <rep1>بضع ثوان</rep1>
+  <rep2>بضع دقائق</rep2>
+  <rep3>حوالي ساعة</rep3>
+  <bonrep>B</bonrep>
+<type>secourisme</type>
+
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>22</num> 
+<question>تستعمل هذه العربة منبهاتها الخاصة</question> 
+  <fichier>photoQuestion/priorite/14.jpg</fichier>
+  <son>sonQuestion/priorite/14.mp3</son> 
+  <rep1>يجب أن أفسح لها المجال</rep1>
+  <rep2>أفسح لها المجال أن وجدت على يميني</rep2>
+  <rep3>أزيد في السرعة وأمر</rep3>
+  <bonrep>A</bonrep>
+<type>priorite</type>
+
+</photo>
+<photo>
+ <duree>18</duree>
+  <num>23</num> 
+<question>في هذه الوضعية</question> 
+  <fichier>photoQuestion/croisement/11.jpg</fichier>
+  <son>sonQuestion/croisement/11.mp3</son> 
+  <rep1>يمكنني المجاوزة</rep1>
+  <rep2>لا يمكنني المجاوزة</rep2>
+  <rep3>يجب علي التوقف</rep3>
+  <bonrep>B</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>38</duree>
+  <num>24</num> 
+<question>عند نزول المطر تكون السرعة محددة داخل مواطن العمران بـ </question> 
+  <fichier>photoQuestion/vitesse/7.jpg</fichier>
+  <son>sonQuestion/vitesse/7.mp3</son> 
+  <rep1>50 كلم/س </rep1>
+  <rep2>40 كلم/س  </rep2>
+  <rep3>30 كلم/س  </rep3>
+  <bonrep>B</bonrep>
+<type>vitesse</type>
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>25</num> 
+<question>في هذا المفترق والضوء البرتقالي رفاف</question> 
+  <fichier>photoQuestion/priorite/15.jpg</fichier>
+  <son>sonQuestion/priorite/15.mp3</son> 
+  <rep1>أفسح المجال لليمين وأمر</rep1>
+  <rep2>أفسح المجال لليسار ولليمين وأمر</rep2>
+  <rep3>أمرّ بدون فسح المجال</rep3>
+  <bonrep>C</bonrep>
+<type>priorite</type>
+</photo>
+<photo>
+ <duree>51</duree>
+  <num>26</num> 
+<question>	عند المرور في هذه الحالة يتعرض السائق لعقوبة</question> 
+  <fichier>photoQuestion/infraction/4.jpg</fichier>
+  <son>sonQuestion/infraction/4.mp3</son> 
+  <rep1>بالسجن لمدّة أقصاها شهران</rep1>
+  <rep2>بخطية مالية من واحد و ستون د إلى مائتان دينار</rep2>
+  <rep3>بخطية مالية من واحد و ستون د إلى مائة دينار</rep3>
+  <bonrep>C</bonrep>
+<type>infraction</type>
+</photo>
+<photo>
+ <duree>37</duree>
+  <num>27</num> 
+<question>المقاطعة في الليل تستوجب التخفيض من السرعة</question> 
+  <fichier>photoQuestion/croisement/9.jpg</fichier>
+  <son>sonQuestion/croisement/9.mp3</son> 
+  <rep1>واستعمال أضواء التلاقي</rep1>
+  <rep2>واستعمال أضواء الوضعية</rep2>
+  <rep3>واستعمال أضواء الطريق</rep3>
+  <bonrep>A</bonrep>
+<type>croisement</type>
+</photo>
+<photo>
+ <duree>21</duree>
+  <num>28</num> 
+<question>للدوران لليسار أمر</question> 
+  <fichier>photoQuestion/priorite/13.jpg</fichier>
+  <son>sonQuestion/priorite/13.mp3</son> 
+  <rep1>قبل السيارة الخضراء</rep1>
+  <rep2>بعد السيارة الخضراء</rep2>
+  <rep3></rep3>
+  <bonrep>B</bonrep>
+<type>priorite</type>
+
+</photo>
+<photo>
+ <duree>39</duree>
+  <num>29</num> 
+<question>هذه العلامة تشير الى ان </question> 
+  <fichier>photoQuestion/signalisation/13.jpg</fichier>
+  <son>sonQuestion/signalisation/13.mp3</son> 
+  <rep1>الطريق ذات الأولوية تنعرج لليمين</rep1>
+  <rep2>الطريق ذات الأولوية تنعرج لليسار</rep2>
+  <rep3>الأولوية لليمين</rep3>
+  <bonrep>B</bonrep>
+<type>signalisation</type>
+</photo>
+<photo>
+ <duree>28</duree>
+  <num>30</num> 
+<question>هذه العلامة تشير الى </question> 
+  <fichier>photoQuestion/signalisation/14.jpg</fichier>
+  <son>sonQuestion/signalisation/14.mp3</son> 
+  <rep1>طريق مزلق</rep1>
+  <rep2>طريق مسنم</rep2>
+  <rep3>حاشية خطيرة</rep3>
+  <bonrep>C</bonrep>
+<type>signalisation</type>
+</photo>
+</photos>

@@ -1,0 +1,14 @@
+Examen:
+    type: entity
+    table: examen
+    id:
+        idExamen:
+            type: integer
+            nullable: false
+            unsigned: false
+            comment: ''
+            id: true
+            column: id_examen
+            generator:
+                strategy: IDENTITY
+    lifecycleCallbacks: {  }
